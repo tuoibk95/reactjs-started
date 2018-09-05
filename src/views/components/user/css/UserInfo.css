@@ -1,0 +1,124 @@
+.title-top {
+    width: 100%;
+    height: 19px;
+    font-family: 'Montserrat';
+    font-size: 16px;
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.56;
+    letter-spacing: normal;
+    text-align: center;
+    margin-top: 24px;
+    color: #107d82;
+}
+.image-user {
+    width: 170px;
+    height: 170px;
+    border-radius: 8px;
+}
+.btn-edit, .btn-edit:hover{
+    width: 136px;
+    height: 44px;
+    left: 35%;
+    border-radius: 4px;
+    border: solid 2px #107d82;
+    color: #107d82;
+    display: inherit;
+}
+
+.ic-edit {
+
+    background-size: 14px;
+    outline: none;
+    border: none;
+    background-repeat: no-repeat;
+    width: 16px;
+    margin-right: 5px;
+    height: 16px;
+
+}
+
+.display-none1{
+    display: initial
+}
+.display-none2{
+    display: none
+}
+
+.text-btn{
+    font-size: 16px;
+    font-family: "Montserrat";
+    font-weight: 500;
+    width: 100%;
+}
+
+.text-edit{
+    height: 19px;
+    font-family: 'Montserrat';
+    font-size: 16px;
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    letter-spacing: normal;
+    text-align: center;
+    /* color: #107d82; */
+}
+.title-info {
+    width: auto;
+    height: 28px;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #333333;
+}
+.title-normal{
+    font-size: 16px;
+    font-weight: 500;
+    color: #107d82;
+    width: 100%;
+    text-align: center;
+    margin: 16px 0 16px 0;
+    font-family: "Montserrat"
+}
+.title-change-info{
+    font-size: 14px;
+    font-weight: 500;
+    text-align: left;
+    color: #333333;
+    font-family: "Montserrat"
+}
+.frames-image, .frames-image:hover{
+    width: 232px;
+    height: 147px;
+    border-radius: 8px;
+    background-color: #ffffff;
+    border: solid 2px #107d82;
+    color: #107d82;
+    font-size: 16px;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 147px;
+    font-weight: 500
+}
+.ic{
+    width: 18px;
+    height: 22px;
+    margin: 8px;
+    padding-bottom: 4px;
+}
+
+label {
+    cursor: pointer;
+    /* Style as you please, it will become the visible UI component. */
+ }
+ 
+ #upload-photo {
+    opacity: 0;
+    position: absolute;
+    z-index: -1;
+ }

@@ -1,0 +1,1530 @@
+/* Media Queries
+-------------------------------------------------------------- */
+
+@media only screen and (max-width: 1366px) {
+    .necessary-infomation ul.list-infomation li {
+        color: #020202;
+    }
+
+    .infomation-area .bg-infomation {
+        background: #f1f1f1;
+    }
+
+    .mega-responsive li.has-dropdown .mega-dropdown {
+        left: -225px;
+    }
+
+    .mega-responsive li.has-dropdown:hover .mega-dropdown {
+        left: -220px;
+    }
+}
+
+/* Smaller than standard 1200 */
+
+@media only screen and (min-width: 1200px) {
+    .slides li img {
+        width: 100%;
+    }
+}
+
+/* Smaller than standard 1200 */
+
+@media only screen and (max-width: 1199px) {
+    .phone-number {
+        margin: 0 20px;
+    }
+
+    #main-menu ul.menu-responsive > li {
+        margin-right: 25px;
+    }
+
+    .widget-flight .input-info-search,
+    .sidebar-right .widget-flight .menu-tag-form,
+    .sidebar-right .widget-sidebar > h4,
+    .sidebar-right .widget-sidebar > h6,
+    .sidebar-right .widget-sidebar .widget-content {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+    .services-item .load {
+        bottom: 20px;
+    }
+
+    .services-item {
+        padding-bottom: 75px;
+    }
+
+    .post-single.small {
+        padding-right: 15px;
+    }
+
+    .about-page {
+        padding: 20px;
+    }
+
+    .about-page .content-about .about-history .timeline li {
+        margin-right: 0;
+    }
+
+    .about-page .content-about .about-history .timeline {
+        padding-right: 0;
+    }
+
+    .sidebar .contact-list li {
+        padding: 20px 10px;
+    }
+
+    .login-form {
+        padding: 30px;
+    }
+
+    .lookup-payment form .field-row div .input-form.discount {
+        width: 73%;
+        margin-right: 0;
+        margin-bottom: 15px;
+    }
+
+    .lookup-payment form .field-row div .button {
+        clear: both;
+    }
+
+    .lookup-payment form .field-row div .input-form.verification {
+        width: 40%;
+    }
+
+    .online-payment .menu-tag-form li {
+        width: 49%;
+    }
+
+    .input-info-search .field-row .four-column {
+        webkit-box-flex: 0;
+        -webkit-flex: 0 0 50%;
+        -ms-flex: 0 0 50%;
+        flex: 0 0 50%;
+        max-width: 50%;
+    }
+
+    .form-submit-area.trains-list .input-info-search .box-input {
+        width: 17.5%;
+    }
+
+    .list-payment {
+        background: none;
+    }
+
+    .payment-item,
+    .payment-item.right {
+        padding-bottom: 40px;
+    }
+
+    .payment-safery,
+    .necessary-infomation {
+        padding: 40px 15px;
+    }
+
+    .flights-list .flights-content .table-flight .inner-content div .code {
+        padding-left: 15px;
+    }
+
+    .flights-list .flights-content .table-flight .title div {
+        padding-left: 20px;
+    }
+
+    .flights-list .flights-content .table-flight .inner-content div .logo-airlines {
+        padding: 0 5px;
+    }
+
+    .form-submit-area.car-list .input-info-search .box-input.economy,
+    .form-submit-area.car-list .input-info-search .box-input.country-1 {
+        width: 19%;
+    }
+
+
+
+
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+    .search-car form .field-row .box-date,
+    .search-car form .field-row .box-time {
+        width: 100%;
+        padding-right: 0;
+        float: none;
+        margin-bottom: 10px;
+    }
+
+}
+
+@media only screen and (max-width: 1060px) {
+    .header-area .btn {
+        margin-right: 30px;
+    }
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1080px) {
+    #main-menu ul.menu-responsive > li {
+        margin-right: 13px;
+    }
+    .cf {
+        display: inline-table;
+    }
+    .shadow.cc {
+        width: auto;
+    }
+}
+
+
+@media only screen and (min-width: 992px) {
+    .mobile-menu {
+        display: none;
+    }
+    .header-area .lang button img {
+        width: 28px;
+        margin-right: 5px;
+    }
+    .mega-responsive li.has-dropdown .mega-dropdown {
+        -webkit-transition: all 0.3s ease-in-out;
+        -moz-transition: all 0.3s ease-in-out;
+        -ms-transition: all 0.3s ease-in-out;
+        -o-transition: all 0.3s ease-in-out;
+        transition: all 0.3s ease-in-out;
+    }
+}
+
+@media only screen and (max-width: 991px) {
+    .header-area .dropdown-menu,
+    .header-area .lang .dropdown-menu {
+        top: 60px;
+    }
+    #main-menu-mobi .menu-responsive div.btn {
+        width: 100%;
+    }
+    .chungxe-tagline h3 {
+        line-height: 40px;
+        color: #fff;
+        font-size: 32px;
+    }
+    .quick-book {
+        margin: 75px 10px;
+    }
+    .chungxe-tagline {
+        margin: 160px 0px 0px 0px;
+    }
+    /*
+    #slider-img, #slider{
+        height: 545px
+    }
+*/
+    #booking-fix {
+        display: none
+    }
+    #main-menu,
+    .main-navigation {
+        display: none;
+    }
+    .logo img {
+        height: 38px;
+    }
+    .header-area .search span,
+    .logo a,
+    .mobile-menu,
+    .phone-number,
+    .menu-mega i {
+        line-height: 60px;
+    }
+
+    .menu-mega {
+        margin-left: 20px;
+    }
+
+    .mega-responsive.open,
+    .header-area .search .form-search {
+        top: 70px;
+    }
+
+    .menu-mega .mega-responsive {
+        left: auto;
+        right: 0px;
+    }
+
+    .mega-responsive li.has-dropdown .mega-dropdown {
+        position: relative;
+        left: 0;
+        opacity: 1;
+        visibility: visible;
+    }
+
+    .mega-responsive li.has-dropdown .mega-dropdown li a {
+        padding-left: 35px;
+    }
+
+    .mega-responsive li.has-dropdown:hover .mega-dropdown {
+        left: 0
+    }
+    .header-area .lang.mobile,
+    .header-area .user-mobile {
+        display: block;
+    }
+    .hidden-md {
+        display: none;
+    }
+    .footer-area {
+        padding: 50px 0 20px;
+    }
+
+    .testimonial-area,
+    .choose-us,
+    .tickets-area,
+    .login-register-area {
+        padding: 50px 0;
+    }
+
+    .top-deal-area {
+        padding-top: 50px;
+    }
+
+    .content {
+        padding-bottom: 50px;
+    }
+
+    #mainav-menu-2 ul.top-menu > li {
+        width: 33.333333333%;
+    }
+
+    #mainav-menu-2 ul.top-menu > li > a {
+        padding: 16px 0;
+        border-right: 1px solid #0e3679;
+        border-bottom: 1px solid #0e3679;
+    }
+
+    #mainav-menu-2 ul.top-menu > li:hover > .menu-dropdown {
+        bottom: 110px;
+        width: calc(100% - 2px);
+    }
+
+    #mainav-menu-2 ul.top-menu > li > a .icon {
+        height: 55px;
+    }
+
+    .mobile-menu {
+        display: block;
+    }
+
+    #main-menu-mobi {
+        position: absolute;
+        background-color: #107d82;
+        z-index: 898;
+        width: 100%;
+        max-width: 100%;
+        z-index: 200;
+    }
+
+    #main-menu-mobi li {
+        position: relative;
+    }
+
+    #main-menu-mobi li a {
+        color: #fff;
+        display: block;
+        line-height: 45px;
+        text-align: center;
+        border-bottom: 1px solid #e0e0e096;
+    }
+
+    #main-menu-mobi li .dropdown li a {
+        padding-left: 35px;
+    }
+    #header {
+        -webkit-box-shadow: 0 1px 10px 0 rgba(31, 28, 38, .045);
+        box-shadow: 0 1px 10px 0 rgba(31, 28, 38, 0.45);
+    }
+    .btn-dropdown,
+    .btn-mega {
+        width: 48px;
+        height: 48px;
+        background-color: rgba(0, 149, 255, 0.1);
+        position: absolute;
+        top: 0;
+        right: 0px;
+        cursor: pointer;
+    }
+
+    .btn-dropdown:before,
+    .btn-mega:before {
+        content: '\f0dd';
+        position: absolute;
+        font-family: 'Fontawesome';
+        color: #fff;
+        top: 11px;
+        left: 15px;
+        width: 22px;
+        line-height: 22px;
+        height: 22px;
+        text-align: center;
+        -webkit-transition: all 0.3s ease-in;
+        -moz-transition: all 0.3s ease-in;
+        -o-transition: all 0.3s ease-in;
+        -ms-transition: all 0.3s ease-in;
+        transition: all 0.3s ease-in;
+    }
+
+    .btn-dropdown.active:before,
+    .btn-mega.active:before {
+        -webkit-transform: rotate(-180deg);
+        -moz-transform: rotate(-180deg);
+        -ms-transform: rotate(-180deg);
+        -o-transform: rotate(-180deg);
+        transform: rotate(-180deg);
+    }
+
+    .btn-mega {
+        height: 45px;
+        background-color: rgba(0, 149, 255, 0.6);
+    }
+
+    .footer-bottom-area .copyright,
+    .menu-footer {
+        float: none;
+        text-align: center;
+    }
+
+    .widget-footer,
+    .choose-container {
+        margin-bottom: 30px;
+    }
+
+    .deal-container .deal-content {
+        padding: 15px 20px 40px;
+    }
+
+    .deal-container .deal-content > a {
+        left: 20px;
+    }
+
+    .form-reply-comment form .comment-text-box .name-comment,
+    .form-reply-comment form .comment-text-box .email-comment {
+        margin-bottom: 15px;
+        padding: 0;
+    }
+
+    .services-page .two-column,
+    .blog-post .two-column,
+    .input-info-search .field-row .one-column,
+    .input-info-search .field-row .two-column,
+    .input-info-search .field-row .three-column,
+    .form-reply-comment form .comment-text-box .name-comment,
+    .form-reply-comment form .comment-text-box .email-comment {
+        -webkit-box-flex: 0;
+        -webkit-flex: 0 0 100%;
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+
+    .wrap-best-price .three-column {
+        -webkit-box-flex: 0;
+        -webkit-flex: 0 0 50%;
+        -ms-flex: 0 0 50%;
+        flex: 0 0 50%;
+        max-width: 50%;
+    }
+
+    .services-item {
+        min-height: auto;
+        padding: 30px 30px 75px 30px;
+    }
+
+    .services-item .load {
+        left: 124px;
+    }
+
+    .h23 {
+        display: none;
+    }
+
+    .post-single.small {
+        margin-left: 0px;
+        padding-left: 20px;
+    }
+
+    .post-single.big .featured-image .owl-carousel img,
+    .blog-post.grid-2 .two-column .post-single .featured-image img,
+    ul.car-list-type > li .info-car,
+    ul.car-list-type > li .price {
+        width: 100%;
+    }
+
+    .blog-post.list,
+    .contact-form,
+    .input-info-search,
+    .form-submit-area .top-form,
+    .footer-search,
+    .submit-search {
+        /*        padding: 20px;*/
+    }
+
+    .blog-post.grid-2 {
+        padding: 15px 5px;
+    }
+
+    .lookup-payment form .field-row label {
+        width: 25%;
+        margin-right: 2%;
+    }
+
+    .online-payment .menu-tag-form {
+        padding: 25px 20px 15px;
+    }
+
+    .air-sticket form .submit-search .button-submit,
+    .online-payment form .submit-search .button-submit,
+    .air-sticket form .submit-search .checkbox,
+    .online-payment form .submit-search .checkbox {
+        float: none;
+        margin-bottom: 10px;
+    }
+
+    .menu-tag-form {
+        padding: 19px 5px;
+    }
+
+    form .checkbox.ver-1:not(:first-child) {
+        margin-left: 10px;
+    }
+
+    .input-info-search .field-row.search-address .input-form,
+    .related-post .post-single .post-image img {
+        width: 100%;
+    }
+
+    ul.car-grid > li,
+    .cruise-grid > li {
+        width: 50%;
+    }
+
+    ul.car-grid > li .info-car .infomation {
+        padding: 20px 15px 15px;
+    }
+
+    ul.car-grid > li .price {
+        padding: 15px;
+    }
+
+    .car-list .title-car {
+        padding: 15px 15px;
+    }
+
+    .menu-car-search li {
+        margin-right: 12px;
+    }
+
+    .mgt-60 {
+        margin-top: -30px;
+    }
+
+    .form-submit-area.car-list .input-info-search .box-input.country {
+        width: 61%;
+    }
+
+    .form-submit-area.car-list .input-info-search .box-input.date-input {
+        width: 45%;
+    }
+
+    .form-submit-area.car-list .input-info-search .box-input.economy,
+    .form-submit-area.car-list .input-info-search .box-input.country-1 {
+        width: 25%
+    }
+
+    ul.car-list-type > li .info-car,
+    ul.car-list-type > li .price {
+        float: none;
+    }
+
+    ul.car-list-type > li .price {
+        padding: 20px 40px;
+        border-left: none;
+        border-top: 1px solid #f1f1f1;
+        text-align: left;
+    }
+
+    .form-submit-area.trains-list .input-info-search .box-input {
+        width: 24.5%;
+    }
+
+    .trains-list .title-trains,
+    .flights-list .title-flights {
+        padding: 15px 20px;
+    }
+
+    .trains-list .trains-content .inner-box-tab {
+        overflow-y: scroll;
+    }
+
+    .trains-list .trains-content .inner-box-tab table {
+        width: 640px;
+        overflow: hidden;
+    }
+
+    .trains-list .trains-content .inner-box-tab::-webkit-scrollbar {
+        height: 4px;
+    }
+    /* Track */
+    .trains-list .trains-content .inner-box-tab::-webkit-scrollbar-track {
+        background: transparent;
+    }
+    /* Handle */
+    .trains-list .trains-content .inner-box-tab::-webkit-scrollbar-thumb {
+        background: #00baf3;
+        height: 4px;
+        border-radius: 3px;
+    }
+    /* Handle on hover */
+    .trains-list .trains-content .inner-box-tab::-webkit-scrollbar-thumb:hover {
+        background: #000;
+    }
+
+    .footer-bottom-area .social-ft,
+    .footer-bottom-area .language {
+        float: none;
+        text-align: center;
+    }
+
+    .footer-bottom-area .social-ft {
+        display: block;
+    }
+
+    .footer-bottom-area .language {
+        margin: 5px 0 15px;
+        display: inline-block;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+
+    .flights-list .flights-content .table-flight .inner-content div .logo-airlines {
+        padding: 0 5px;
+    }
+
+    .flights-list .flights-content .table-flight .inner-content div label {
+        font-size: 12px;
+    }
+
+    .flights-content {
+        overflow-y: scroll;
+    }
+
+    .flights-content .table-flight {
+        width: 714px;
+        overflow: hidden;
+    }
+
+    .flight-detail .detail-content .flight-address .flight-duration h6:before {
+        left: -32px;
+    }
+
+    .flight-detail .detail-content .flight-address .flight-duration h6:after {
+        right: -40px;
+    }
+
+    .form-submit-area.car-list.search-flight .input-info-search .box-input.search-address {
+        width: 61%;
+    }
+
+    .process-flight li {
+        padding: 14px 8px 0;
+    }
+
+    .top-title {
+        min-height: 200px;
+        padding-bottom: 50px;
+    }
+
+    .button-next {
+        padding: 0;
+        margin-top: 20px;
+    }
+
+    .post-single.big .post-content,
+    .single-blog-post {
+        padding: 20px;
+    }
+
+    .datetimepicker {
+        width: 270px;
+    }
+
+    .phone-number {
+        margin: 0 10px;
+    }
+
+    .box-direction .box-left,
+    .box-direction .box-right {
+        float: none;
+    }
+
+    .box-direction .box-tags {
+        margin-bottom: 15px;
+    }
+
+    .form-reply-comment,
+    .single-blog-post,
+    ul.pagination-single,
+    .related-post,
+    .comment-post {
+        padding: 20px;
+    }
+
+    .box-tags ul.tag-list li {
+        margin-bottom: 3px;
+    }
+
+    .input-info-search .field-row .button button {
+        margin-top: 5px;
+    }
+
+
+}
+
+/* Tablet Landscape */
+
+@media only screen and (min-width: 768px) and (max-width: 991px) and (orientation: landscape) {
+    .ticket-item .ticket-content .meta .date,
+    .ticket-item .ticket-content .meta .price,
+    .menu-car-search,
+    .car-list .title-car .number-list,
+    .car-list .title-car p {
+        float: none;
+    }
+    .sidebar-right .widget-sidebar.widget-post ul.post-list li.post-single {
+        padding: 15px;
+    }
+    .sidebar-right .widget-sidebar.widget-post ul.post-list li.post-single .post-image {
+        float: none;
+        margin-right: 0;
+        margin-bottom: 10px;
+    }
+
+    .sidebar-right .widget-sidebar.widget-post ul.post-list li.post-single .post-image img {
+        width: 100%;
+    }
+    #slider-img {
+        height: 580px;
+    }
+    #slider,
+    .slides {
+        min-height: 580px;
+    }
+    .list-view .prod.his a img {
+        width: 208px;
+    }
+}
+
+/* Tablet Portrait Size */
+
+@media only screen and (min-width: 767px) {
+    .right-content .shadow.mb-xlg.p-lg {
+        min-height: 815px;
+    }
+}
+
+@media only screen and (max-width: 790px) {
+    /*
+    .info-prod .dt p {
+        margin-bottom: 1px;
+
+    }
+    .list-view .his .info-prod {
+        width: calc(100% - 200px);
+    }
+    .list-view .prod.his a img {
+        width: 200px;
+    }
+*/
+}
+
+@media only screen and (max-width: 767px) {
+
+
+    .shadow.cc {
+        width: auto;
+    }
+    .main-menu-mobi .menu-responsive .btn {
+        width: 100%;
+    }
+
+    .chungxe-tagline {
+        margin: 50px 50px -15px 50px;
+        text-align: center;
+    }
+    .chungxe-tagline h3 {
+        font-size: 29px;
+        line-height: 38px;
+    }
+    .title-default h3,
+    .title-default.ver-1 h3 {
+        line-height: 30px;
+        font-size: 22px;
+    }
+
+    .sidebar-right {
+        margin-top: 30px;
+    }
+
+    .trains-list-area .sidebar-right,
+    .car-list-area .sidebar-right,
+    .flights-list-area .sidebar-right {
+        margin-top: 0;
+    }
+
+    .social {
+        display: none;
+    }
+
+    .footer-search .note {
+        margin-bottom: 0;
+    }
+
+    .car-list .title-car {
+        padding: 15px 0;
+    }
+
+    .main-blog .sidebar-right,
+    .main-single .sidebar-right,
+    .contact-area .sidebar-right,
+    .lookup-payment-area .sidebar-right,
+    .payment-area .sidebar-right,
+    .search-trains-area .sidebar-right,
+    .search-cruises-area .sidebar-right,
+    .search-car-area .sidebar-right {
+        margin-top: 30px;
+    }
+
+    .trains-list-area .trains-list,
+    .car-list-area .car-list {
+        margin-top: 15px;
+    }
+
+    .form-submit-area.car-list .input-info-search .box-input.country .input-form {
+        margin-bottom: 10px;
+    }
+
+    .payment-safery,
+    .necessary-infomation,
+    .form-submit-area.car-list .input-info-search .box-input.country,
+    .form-submit-area.car-list.search-flight .input-info-search .box-input.search-address {
+        width: 100%;
+        display: block;
+    }
+
+    .form-submit-area.car-list .input-info-search .box-input.economy,
+    .form-submit-area.car-list .input-info-search .box-input.country-1 {
+        width: 46%;
+    }
+
+    .form-submit-area.car-list .input-info-search .box-input.date-input {
+        width: 53%;
+    }
+
+    .form-submit-area.trains-list .input-info-search .box-input.from {
+        width: 46%;
+    }
+
+    .trains-list .title-trains,
+    .flights-list .title-flights {
+        padding: 15px 0px;
+    }
+
+    .trains-detail {
+        left: 10px;
+        right: 10px;
+        width: auto;
+        -webkit-transform: translateX(0);
+        -moz-transform: translateX(0);
+        -ms-transform: translateX(0);
+        -o-transform: translateX(0);
+        transform: translateX(0);
+    }
+
+    .trains-detail .detail-bottom p,
+    .trains-detail .detail-bottom .button-book {
+        float: none;
+    }
+
+    .tp-caption.title-slide span {
+        font-size: 32px !important;
+    }
+
+    .infomation-area .two-column {
+        -webkit-box-flex: 0;
+        -webkit-flex: 0 0 100%;
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+
+    .payment-item.right {
+        padding: 0 0px 40px 110px;
+    }
+
+    .payment-item .icon {
+        top: 0;
+    }
+
+    .payment-item.right .icon {
+        left: 0;
+    }
+
+    .payment-item.right .payment-content {
+        text-align: left;
+    }
+
+    .process-flight {
+        margin-top: 30px;
+    }
+
+    .datetimepicker {
+        right: 15px;
+        left: auto !important;
+    }
+
+    .datetimepicker-dropdown-bottom-right:before {
+        top: -7px;
+        left: auto;
+        right: 45px;
+    }
+
+    .sidebar-right .widget-sidebar.widget-post ul.post-list li.post-single {
+        padding: 15px;
+    }
+
+    .owl-carousel-ver1 li {
+        line-height: 100px;
+    }
+
+    .widget-footer h4 {
+        margin-bottom: 18px;
+    }
+
+}
+
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+    .product-area .info-left,
+    .product-area .info-right {
+        width: 100%;
+        float: none;
+    }
+    .product-area .info-left {
+        padding: 25px 25px 25px 25px;
+    }
+    .product-area .info-right {
+        padding: 0px 25px 10px 25px;
+    }
+    .product-area .info-right .clr {
+        clear: none;
+    }
+}
+
+@media only screen and (max-width: 699px) {
+    .list-view .info-prod {
+        width: calc(100% - 200px);
+        border-left: 1px solid #ddd
+    }
+    .list-view .prod img {
+        width: 200px;
+        border-right: none;
+    }
+    .list-view .prod .info-prod .engine,
+    .list-view .prod .info-prod .location,
+    .list-view .prod .info-prod .payment {
+        padding-left: 25px;
+        font-size: 15px;
+        margin-bottom: 5px;
+    }
+    .list-view .prod .info-prod .stars img {
+        width: 19px;
+    }
+}
+
+@media only screen and (min-width: 641px) {
+    .header-area .phone-number {
+        float: right;
+    }
+
+    /* Phone Number */
+    .phone-number {
+        font-size: 15px;
+        font-weight: 600;
+        color: #999999;
+        font-family: 'Montserrat';
+        margin: 0 20px 0 20px;
+    }
+
+}
+
+@media only screen and (max-width: 640px) {
+    .list-view .info-prod,
+    .list-view .prod img {
+        float: none;
+    }
+    .list-view .info-prod,
+    .list-view .his .info-prod {
+        width: 100%;
+    }
+    .prod {
+        text-align: center;
+    }
+    .list-view .prod.his a img {
+        width: 250px;
+    }
+    #mainav-menu-2 ul.top-menu > li > a .text {
+        font-size: 14px;
+    }
+
+    .contact-form form .contact-field .two-column {
+        -webkit-box-flex: 0;
+        -webkit-flex: 0 0 100%;
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+
+    .contact-form form .contact-field .contact-name {
+        padding-right: 0;
+        margin-bottom: 13px;
+    }
+
+    .contact-form form .contact-field .contact-email {
+        padding-left: 0;
+    }
+
+    .form-submit-area.trains-list .input-info-search .box-input.from,
+    .form-submit-area.car-list .input-info-search .box-input.date-input {
+        width: 100%;
+    }
+
+    .form-submit-area.car-list .input-info-search .box-input.date-input .input-form {
+        float: none;
+    }
+
+    .form-submit-area.car-list .input-info-search .box-input.economy,
+    .form-submit-area.car-list .input-info-search .box-input.country-1 {
+        width: 49%;
+    }
+
+    .form-submit-area.trains-list .input-info-search .box-input {
+        width: 38.5%;
+    }
+
+    .wrap-best-price .three-column {
+        -webkit-box-flex: 0;
+        -webkit-flex: 0 0 100%;
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+
+    .comment-list li ul.comment-reply-list {
+        padding-left: 30px;
+    }
+
+    .header-area .phone-number {
+        float: none;
+        display: none;
+    }
+
+    .header-area .search span {
+        border: none;
+        padding: 0 0 0 20px;
+        width: auto;
+    }
+
+}
+
+@media only screen and (max-width: 600px) {
+    .quick-book {
+        margin: 0px;
+        padding: 15px;
+    }
+    .chungxe-tagline {
+        margin: 10px 0px 10px 0px;
+    }
+
+    .chungxe-tagline h3 {
+        font-size: 24px;
+        line-height: 32px;
+    }
+    #slider-img {
+        height: 530px;
+    }
+    #slider,
+    .slides {
+        min-height: 504px;
+    }
+    .car-list-area .car-content {
+        overflow-y: scroll;
+    }
+
+    .car-list-area.car-grid-area .car-content {
+        overflow-y: hidden;
+    }
+
+    .car-list-area .car-content table {
+        width: 600px;
+        overflow: hidden;
+        padding: 20px;
+    }
+
+    .car-list-area .car-content::-webkit-scrollbar {
+        height: 4px;
+    }
+    /* Track */
+    .car-list-area .car-content::-webkit-scrollbar-track {
+        background: transparent;
+    }
+    /* Handle */
+    .car-list-area .car-content::-webkit-scrollbar-thumb {
+        background: #00baf3;
+        height: 4px;
+        border-radius: 3px;
+    }
+    /* Handle on hover */
+    .car-list-area .car-content::-webkit-scrollbar-thumb:hover {
+        background: #000;
+    }
+
+    .tp-caption.title-slide span {
+        font-size: 26px !important;
+    }
+    input[type="text"],
+    input[type="password"],
+    input[type="datetime"],
+    input[type="datetime-local"],
+    input[type="date"],
+    input[type="month"],
+    input[type="time"],
+    input[type="week"],
+    input[type="number"],
+    input[type="url"],
+    input[type="search"],
+    input[type="tel"],
+    input[type="color"],
+    input[type="email"] {
+        padding: 8px 15px 8px 8px;
+        font-size: 14px;
+    }
+}
+
+@media (min-width: 576px) {
+    .modal-dialog {
+        max-width: 618px;
+        margin: 30px auto;
+    }
+}
+
+@media only screen and (max-width: 580px) {
+    .wizard-progress .wizard-steps li {
+        max-width: 90px;
+    }
+    .wizard-progress .wizard-steps li a {
+        line-height: 17px;
+    }
+    .quick-book h4 {
+        font-size: 25px;
+        font-weight: 500;
+        margin-bottom: 6px;
+    }
+    .col-xs-6 {
+        -webkit-box-flex: 0;
+        -webkit-flex: 0 0 50%;
+        -ms-flex: 0 0 50%;
+        flex: 0 0 50%;
+        max-width: 50%;
+    }
+    #mainav-menu-2 ul.top-menu > li {
+        width: 50%;
+    }
+    .top-title .top-page .breadcrumbs {
+        position: static;
+        text-align: center;
+        margin-top: 12px;
+    }
+    #slider ul.pager {
+        bottom: 26px;
+    }    
+
+    .menu-car-search,
+    .car-list .title-car .number-list,
+    .car-list .title-car p {
+        float: none;
+    }
+
+    .trains-detail .title,
+    .trains-detail .content-detail,
+    .trains-detail ul.fee-list,
+    .trains-detail ul.price-detail,
+    .trains-detail .detail-bottom {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    .trains-detail .content-detail > div {
+        display: block;
+    }
+
+    .trains-detail .content-detail .train-departure {
+        margin-left: 0;
+        margin-top: 30px;
+    }
+
+    .trains-detail ul.price-detail > li {
+        width: 50%;
+    }
+
+    .trains-detail ul.fee-list > li {
+        float: none;
+        width: 100%;
+        margin-bottom: 10px;
+    }
+
+    .best-price-container .best-price-content,
+    .best-price-container .menu-tab-price {
+        width: 100%;
+        float: none;
+    }
+
+    .best-price-container .best-price-content {
+        margin-top: 30px;
+    }
+
+    .process-flight li {
+        padding: 15px 35px 15px;
+    }
+
+    .process-flight li:nth-child(2):after {
+        display: none;
+    }
+
+    .form-submit-area.car-list .input-info-search .box-input.date-input .box-time,
+    .form-submit-area.car-list .input-info-search .box-input.date-input .box-date {
+        width: 100%;
+        float: none;
+        margin-bottom: 10px;
+    }
+
+
+}
+
+@media only screen and (max-width: 575px) {
+    .right-content form label {
+        margin-right: 0px;
+    }
+
+}
+
+/* Smaller than standard 480 */
+
+@media only screen and (max-width: 480px) {
+    .wizard-progress {
+        margin: 0px;
+    }
+    #main-menu-mobi {
+        left: 0;
+        margin-left: 0;
+    }
+    .ticket-item .logo-ticket {
+        text-align: center;
+        float: none;
+    }
+    .ticket-item .ticket-content {
+        padding: 0 15px 15px;
+        border-left: none;
+    }
+
+    .services-item {
+        padding: 25px 15px 75px 15px;
+    }
+
+    .services-item .services-content {
+        overflow: visible;
+    }
+
+    .services-item .load {
+        left: 15px;
+    }
+
+    .lookup-payment form .field-row label {
+        width: 100%;
+        float: none;
+        padding: 0 0 5px;
+    }
+
+    .lookup-payment form .field-row div .input-form,
+    .lookup-payment form .field-row div .input-form.discount,
+    .lookup-payment form .field-row div .input-form.verification,
+    ul.car-grid > li,
+    .cruise-grid > li {
+        width: 100%;
+    }
+
+    .lookup-payment form .field-row div .input-form.verification {
+        margin-bottom: 10px;
+    }
+
+    ul.car-list-type > li .info-car .car-model {
+        float: none;
+        margin-bottom: 20px;
+    }
+
+    ul.car-list-type > li .info-car,
+    ul.car-list-type > li .price {
+        padding: 15px;
+    }
+
+    .process-flight li {
+        padding: 15px 20px 15px;
+    }
+
+    .comment-list li .comment-body .comment-right a.reply,
+    .comment-list li .comment-body .comment-right .name,
+    .trains-list .title-trains h6,
+    .flights-list .title-flights h6,
+    .flights-list .title-flights span {
+        float: none;
+    }
+
+    .flights-list .title-flights span {
+        display: inline-block;
+        margin-top: 10px;
+    }
+
+    .comment-list li .comment-body .comment-right .name {
+        margin-bottom: 5px;
+    }
+
+    .comment-list li .comment-body .comment-right {
+        overflow: visible;
+    }
+
+    .comment-list li .comment-body .comment-right .comment-text {
+        padding-right: 0;
+    }
+
+    ul.car-grid > li .info-car .infomation {
+        padding: 0;
+    }
+}
+
+@media only screen and (max-width: 440px) {
+    .list-view .info-prod .pull-left,
+    .list-view .info-prod .pull-right {
+        float: none;
+    }
+    .list-view .info-prod .pull-right,
+    .list-view .info-prod .pull-right .price {
+        text-align: left !important;
+    }
+    .list-view .info-prod .pull-right a.btn {
+        position: relative !important;
+        right: auto !important;
+        bottom: auto !important;
+        margin-top: 10px;
+        padding: .5rem;
+        display: block;
+    }
+    .his .pull-left {
+        width: 100%;
+    }
+    .list-view .prod.his a img {
+        float: none;
+    }
+    .list-view .his .info-prod {
+        padding-top: 0px;
+    }
+    .list-view .prod .info-prod .tit2 {
+        margin-top: 5px !important
+    }
+    .list-view .prod.his .info-prod .pull-right a.btn {
+        margin: 10px 10px 0px 0px;
+        float: left;
+    }
+    .list-view .prod.his .info-prod .pull-right a.btn.light {
+        padding: .7rem .6rem;
+        height: 36px;
+        line-height: 10px;
+
+    }
+    .cf .btn-group .btn,
+    .cf .btn-group .btn:hover,
+    .cf .btn-group .btn.active {
+        margin-left: 0px !important;
+        padding: 11px 5px !important;
+        font-size: 12px;
+    }
+}
+
+@media only screen and (max-width: 400px) {
+    .wizard-progress .steps-progress .progress-indicator {
+        display: none;
+    }
+    .wizard-progress .steps-progress {
+        background: #0f7d82;
+    }
+    .wizard-progress .steps-progress {
+        margin: 0px;
+    }
+    .wizard-progress .wizard-steps {
+        text-align: center;
+    }
+
+    .wizard-progress .wizard-steps li {
+        display: none;
+        max-width: 300px;
+    }
+    li.nav-item.active {
+        display: inherit;
+    }
+    .input-form.date.form_date,
+    .controls.input-append.date.form_time, .controls.input-append.date.form_datetime {
+        background: none;
+    }
+    .product-area .info-left,
+    .product-area .info-right {
+        width: 100%;
+        float: none;
+    }
+    .product-area .info-left {
+        padding: 25px 25px 25px 25px;
+    }
+    .product-area .info-right {
+        padding: 0px 25px 10px 25px;
+    }
+    .product-area .info-right .clr {
+        clear: none;
+    }
+    #mainav-menu-2 ul.top-menu > li,
+    .form-submit-area.car-list .input-info-search .box-input.country .input-form,
+    .form-submit-area.car-list .input-info-search .box-input.date-input .box-date,
+    .form-submit-area.car-list .input-info-search .box-input.date-input .box-time,
+    .form-submit-area.trains-list .input-info-search .box-input,
+    .form-submit-area.trains-list .input-info-search .box-input.from .input-form {
+        width: 100%;
+    }
+
+    .login-form {
+        padding: 30px 20px;
+    }
+
+    .search-car form .field-row .box-date,
+    .search-car form .field-row .box-time {
+        width: 100%;
+        padding-right: 0;
+        float: none;
+    }
+
+    .search-car form .field-row .box-time {
+        margin-top: 15px;
+    }
+
+    .menu-tag-form li {
+        margin-right: 15px;
+    }
+
+    form .checkbox.ver-1 {
+        display: block;
+    }
+
+    form .checkbox.ver-1:not(:first-child) {
+        margin-left: 0;
+        margin-top: 10px;
+    }
+
+    .input-info-search .field-row div .leaving {
+        margin-bottom: 15px;
+    }
+
+    .input-info-search .field-row div .leaving,
+    .input-info-search .field-row div .next-point {
+        width: 100%;
+        float: none;
+    }
+
+    .form-submit-area.car-list .input-info-search .box-input.country .input-form,
+    .form-submit-area.car-list .input-info-search .box-input.date-input .box-date,
+    .form-submit-area.trains-list .input-info-search .box-input.from .input-form:first-child {
+        margin-bottom: 10px;
+    }
+
+    .process-flight li {
+        display: block;
+        padding: 15px 10px 15px;
+    }
+
+    .process-flight li:after {
+        display: none;
+    }
+
+    .logo a img {
+        height: 32px;
+    }
+
+    .form-submit-area.car-list .input-info-search .box-input.economy,
+    .form-submit-area.car-list .input-info-search .box-input.country-1 {
+        width: 100%;
+    }
+
+
+
+}
+
+/* Smaller than standard 360 */
+
+@media (max-width: 360px) {
+    .menu-footer li {
+        margin-left: 15px;
+    }
+
+    .post-single.small .featured-image {
+        float: none;
+        margin-right: 0px;
+        margin-bottom: 15px;
+    }
+
+    .post-single.small .featured-image img {
+        width: 100%;
+    }
+
+    .login-form form .checkbox .remember-pass,
+    .login-form form .checkbox .forget-pass,
+    .input-info-search .field-row.station .remove-station,
+    .input-info-search .field-row.station .add-station {
+        float: none;
+    }
+
+    .menu-tag-form {
+        text-align: left;
+        padding: 15px 20px;
+    }
+
+    .menu-tag-form li {
+        font-size: 13px;
+        margin-bottom: 5px;
+    }
+
+    .input-info-search .field-row .four-column {
+        webkit-box-flex: 0;
+        -webkit-flex: 0 0 100%;
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+
+    .trains-list .title-trains h6,
+    .flights-list .title-flights h6,
+    .trains-list .title-trains .number-list,
+    .car-list .title-car .number-list {
+        float: none;
+    }
+
+
+
+}

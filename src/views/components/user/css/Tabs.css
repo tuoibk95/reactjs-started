@@ -1,0 +1,171 @@
+.form {
+    margin: 24px 24px 0 24px ;
+    font-size: 14px;
+    color: #333333;
+}
+.input-tabs {
+    width: 330px !important;
+    position: relative;
+    height: 44px !important;
+    font-family: 'Montserrat';
+    font-size: 14px;
+    font-weight: nomal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #333333;
+    min-width: 150px;
+    opacity: .65;
+}
+
+.title-ip-register {
+    width: 245px;
+    text-align: left;
+    padding-right: 16px;
+    font-family: 'Montserrat';
+    font-size: 14px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    vertical-align: middle;
+    line-height: 2.29;
+    color: #333333;
+    height: 30px;
+
+}
+.text_note {
+    width: 126px;
+    height: 20px;
+    font-family: 'Montserrat';
+    font-size: 12px;
+    font-weight: 300;
+    font-style: normal;
+    font-stretch: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #333333;
+}
+
+.form-group {
+    padding: 0 !important;
+    margin-bottom: 12px;
+   
+}
+.path {
+    display: inline-flex;
+    margin-bottom: 24px;
+}
+.path1 {
+    width: 105px;
+    height: 0;
+    border: solid 1px #cecece;
+}
+.path2{
+    width: 105px;
+    height: 0;
+    border: solid 1px #cecece;
+}
+.path_text {
+    width: 161px;
+    height: 18px;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 300;
+    font-style: normal;
+    font-stretch: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #333333;
+    margin-top: -11px;
+    padding-left: 3px;
+}
+.others_login {
+    display: inline-flex;
+    padding-left: 91px;
+
+}
+.others_login_img {
+    width: 44px;
+    height: 44px;
+    border-radius: 4px;
+    background-color: #cecece;
+    margin-right: 32px;
+    text-align: center;
+    margin-bottom: 24px;
+}
+
+.btn_back {
+    width: 330px;
+    height: 48px;
+    border-radius: 4px;
+    border: solid 2px #107d82;
+}
+
+.btn_back:hover {
+    width: 330px;
+    height: 48px;
+    border-radius: 4px;
+    border: solid 2px #107d82;
+}
+
+@media (min-width: 768px) {
+    .col-md {
+        padding: 5px !important;
+        font-size: 14px !important;
+        color: #000000;
+    }
+
+    .form-error {
+        color: red !important;
+        font-size: 13px !important;
+    }
+}
+
+.rc-tabs-top {
+    border-bottom: none !important;
+    margin-bottom: 2px;
+    padding-bottom: 2px;
+}
+
+.modal-body {
+    padding: 0 !important;
+}
+
+.rc-tabs-top .rc-tabs-ink-bar {
+    height: 2.6px !important;
+}
+
+.rc-tabs-top .rc-tabs-nav-swipe .rc-tabs-nav .rc-tabs-tab {
+    vertical-align: middle !important;
+    margin-top: 2px !important;
+    margin-bottom: 2px !important;
+    font-size: 16px !important;
+    font-weight: 400 !important;
+    color: #333333;
+    font-family: 'Montserrat';
+}
+
+.rc-tabs-top .rc-tabs-nav-wrap {
+    width: 100%;
+    height: 44px;
+}
+
+.rc-tabs-ink-bar, .rc-tabs-tab:hover {
+    color: #107d82 !important;
+}
+
+.rc-tabs-tab-active, .rc-tabs-tab-active:hover {
+    color: #107d82 !important;
+}
+
+.modal-title > .close {
+    display: none !important
+}
+
+.rc-tabs-ink-bar {
+    background-color: #107d82 !important;
+}

@@ -1,0 +1,482 @@
+[
+    {
+        "vhc_part_id": 1,
+        "vhc_part_name": "Everest Titanium 2.2AT 4x2 2016",
+        "vhc_part_year": 2016,
+        "vhc_part_defa_prie": 600000,
+        "vhc_part_prty": 1,
+        "vhc_part_star": 4,
+        "vhc": {
+            "vhc_id": 1,
+            "vhc_name": "Titanium 2.2AT 4x2",
+            "vhc_type_id": 1,
+            "vhc_type_name": "Ô tô",
+            "vhc_bran_id": 1,
+            "vhc_bran_name": "Ford",
+            "vhc_modl_id": 1,
+            "vhc_modl_name": "Everest",
+            "vhc_egin_num": 2.2,
+            "vhc_tms_id": 1,
+            "vhc_tms_name": "AT",
+            "vhc_seat_id": 1,
+            "vhc_seat_num": 6,
+            "vhc_fuel_id": 1,
+            "vhc_fuel_name": "Xăng",
+            "vhc_fuel_csum_num": 8,
+            "vhc_dgn_id": 1,
+            "vhc_dgn_name": "SUV",
+            "vhc_imgs": [
+                {
+                    "vhc_img_id": 1,
+                    "vhc_img_name": "ảnh chụp nghiêng",
+                    "vhc_img_link": "assets/images/product/car1.png"
+                }
+            ]
+        },
+        "part": {
+            "part_id": 1,
+            "part_name": "Đại lí 3",
+            "part_addr": "166 Huế, Hai Bà Trưng District, Hanoi",
+            "part_stat_time": "00:00:00",
+            "part_end_time": "23:59:00",
+            "part_last_nigh_supt": 1,
+            "part_over_time_fee": 10000,
+            "part_pay_meths": [
+                {
+                    "pay_meth_id": 1,
+                    "pay_meth_name": "Trả sau",
+                    "pay_meth_ico": "assets/images/icon/ic-money.png",
+                    "pay_meth_des": ""
+                },
+                {
+                    "pay_meth_id": 2,
+                    "pay_meth_name": "Chuyển khoản",
+                    "pay_meth_ico": "assets/images/icon/ic-atm.png",
+                    "pay_meth_des": ""
+                },
+                {
+                    "pay_meth_id": 3,
+                    "pay_meth_name": "Thanh toán thẻ nội địa",
+                    "pay_meth_ico": "assets/images/icon/ic-atm.png",
+                    "pay_meth_des": ""
+                }
+            ],
+            "part_wdays": [
+                {
+                    "part_way_id": 1,
+                    "wday": {
+                        "wday_id": 6,
+                        "wday_name": "Thứ 7",
+                        "wday_indx": 6
+                    },
+                    "part_wday_exta_fee": 100000
+                },
+                {
+                    "part_way_id": 2,
+                    "wday": {
+                        "wday_id": 7,
+                        "wday_name": "Chủ nhật",
+                        "wday_indx": 0
+                    },
+                    "part_wday_exta_fee": 100000
+                }
+            ],
+            "part_holis": [
+                {
+                    "part_holi_id": 1,
+                    "holi": {
+                        "holi_id": 1,
+                        "holi_name": "02/09",
+                        "holi_day_from": "09-01",
+                        "holi_day_to": "09-02"
+                    },
+                    "part_holi_exta_fee": 20
+                }
+            ]
+        }
+    },
+    {
+        "vhc_part_id": 2,
+        "vhc_part_name": "Everest Titanium 3.2AT 4WD 2016",
+        "vhc_part_year": 2016,
+        "vhc_part_defa_prie": 600000,
+        "vhc_part_prty": 1,
+        "vhc_part_star": 4,
+        "vhc": {
+            "vhc_id": 2,
+            "vhc_name": "Titanium 3.2AT 4WD",
+            "vhc_type_id": 1,
+            "vhc_type_name": "Ô tô",
+            "vhc_bran_id": 1,
+            "vhc_bran_name": "Ford",
+            "vhc_modl_id": 1,
+            "vhc_modl_name": "Everest",
+            "vhc_egin_num": 3.2,
+            "vhc_tms_id": 1,
+            "vhc_tms_name": "AT",
+            "vhc_seat_id": 1,
+            "vhc_seat_num": 6,
+            "vhc_fuel_id": 1,
+            "vhc_fuel_name": "Xăng",
+            "vhc_fuel_csum_num": 8,
+            "vhc_dgn_id": 1,
+            "vhc_dgn_name": "SUV",
+            "vhc_imgs": [
+                {
+                    "vhc_img_id": 2,
+                    "vhc_img_name": "ảnh chụp nghiêng",
+                    "vhc_img_link": "assets/images/product/motor1.png"
+                }
+            ]
+        },
+        "part": {
+            "part_id": 1,
+            "part_name": "Đại lí 3",
+            "part_addr": "166 Huế, Hai Bà Trưng District, Hanoi",
+            "part_stat_time": "00:00:00",
+            "part_end_time": "23:59:00",
+            "part_last_nigh_supt": 1,
+            "part_over_time_fee": 10000,
+            "part_pay_meths": [
+                {
+                    "pay_meth_id": 1,
+                    "pay_meth_name": "Trả sau",
+                    "pay_meth_ico": "assets/images/icon/ic-money.png",
+                    "pay_meth_des": ""
+                },
+                {
+                    "pay_meth_id": 2,
+                    "pay_meth_name": "Chuyển khoản",
+                    "pay_meth_ico": "assets/images/icon/ic-atm.png",
+                    "pay_meth_des": ""
+                },
+                {
+                    "pay_meth_id": 3,
+                    "pay_meth_name": "Thanh toán thẻ nội địa",
+                    "pay_meth_ico": "assets/images/icon/ic-atm.png",
+                    "pay_meth_des": ""
+                }
+            ],
+            "part_wdays": [
+                {
+                    "part_way_id": 1,
+                    "wday": {
+                        "wday_id": 6,
+                        "wday_name": "Thứ 7",
+                        "wday_indx": 6
+                    },
+                    "part_wday_exta_fee": 100000
+                },
+                {
+                    "part_way_id": 2,
+                    "wday": {
+                        "wday_id": 7,
+                        "wday_name": "Chủ nhật",
+                        "wday_indx": 0
+                    },
+                    "part_wday_exta_fee": 100000
+                }
+            ],
+            "part_holis": [
+                {
+                    "part_holi_id": 1,
+                    "holi": {
+                        "holi_id": 1,
+                        "holi_name": "02/09",
+                        "holi_day_from": "09-01",
+                        "holi_day_to": "09-02"
+                    },
+                    "part_holi_exta_fee": 20
+                }
+            ]
+        }
+    },
+    {
+        "vhc_part_id": 3,
+        "vhc_part_name": "Everest Trend 2.2AT 4x2 2016",
+        "vhc_part_year": 2016,
+        "vhc_part_defa_prie": 700000,
+        "vhc_part_prty": 1,
+        "vhc_part_star": 5,
+        "vhc": {
+            "vhc_id": 1,
+            "vhc_name": "Everest Trend 2.2AT 4x2",
+            "vhc_type_id": 1,
+            "vhc_type_name": "Ô tô",
+            "vhc_bran_id": 1,
+            "vhc_bran_name": "Ford",
+            "vhc_modl_id": 1,
+            "vhc_modl_name": "Everest",
+            "vhc_egin_num": 2.2,
+            "vhc_tms_id": 1,
+            "vhc_tms_name": "AT",
+            "vhc_seat_id": 1,
+            "vhc_seat_num": 6,
+            "vhc_fuel_id": 1,
+            "vhc_fuel_name": "Xăng",
+            "vhc_fuel_csum_num": 8,
+            "vhc_dgn_id": 1,
+            "vhc_dgn_name": "SUV",
+            "vhc_imgs": [
+                {
+                    "vhc_img_id": 1,
+                    "vhc_img_name": "ảnh chụp nghiêng",
+                    "vhc_img_link": "assets/images/product/motor2.png"
+                }
+            ]
+        },
+        "part": {
+            "part_id": 1,
+            "part_name": "Đại lí 3",
+            "part_addr": "166 Huế, Hai Bà Trưng District, Hanoi",
+            "part_stat_time": "00:00:00",
+            "part_end_time": "23:59:00",
+            "part_last_nigh_supt": 1,
+            "part_over_time_fee": 10000,
+            "part_pay_meths": [
+                {
+                    "pay_meth_id": 1,
+                    "pay_meth_name": "Trả sau",
+                    "pay_meth_ico": "assets/images/icon/ic-money.png",
+                    "pay_meth_des": ""
+                },
+                {
+                    "pay_meth_id": 2,
+                    "pay_meth_name": "Chuyển khoản",
+                    "pay_meth_ico": "assets/images/icon/ic-atm.png",
+                    "pay_meth_des": ""
+                },
+                {
+                    "pay_meth_id": 3,
+                    "pay_meth_name": "Thanh toán thẻ nội địa",
+                    "pay_meth_ico": "assets/images/icon/ic-atm.png",
+                    "pay_meth_des": ""
+                }
+            ],
+            "part_wdays": [
+                {
+                    "part_way_id": 1,
+                    "wday": {
+                        "wday_id": 6,
+                        "wday_name": "Thứ 7",
+                        "wday_indx": 6
+                    },
+                    "part_wday_exta_fee": 100000
+                },
+                {
+                    "part_way_id": 2,
+                    "wday": {
+                        "wday_id": 7,
+                        "wday_name": "Chủ nhật",
+                        "wday_indx": 0
+                    },
+                    "part_wday_exta_fee": 100000
+                }
+            ],
+            "part_holis": [
+                {
+                    "part_holi_id": 1,
+                    "holi": {
+                        "holi_id": 1,
+                        "holi_name": "02/09",
+                        "holi_day_from": "09-01",
+                        "holi_day_to": "09-02"
+                    },
+                    "part_holi_exta_fee": 20
+                }
+            ]
+        }
+    },
+    {
+        "vhc_part_id": 4,
+        "vhc_part_name": "LACETTI CDX 2012",
+        "vhc_part_year": 2012,
+        "vhc_part_defa_prie": 600000,
+        "vhc_part_prty": 3,
+        "vhc_part_star": 4,
+        "vhc": {
+            "vhc_id": 1,
+            "vhc_name": "LACETTI CDX",
+            "vhc_type_id": 1,
+            "vhc_type_name": "Ô tô",
+            "vhc_bran_id": 1,
+            "vhc_bran_name": "Daewoo",
+            "vhc_modl_id": 1,
+            "vhc_modl_name": "LACETTI",
+            "vhc_egin_num": 1.8,
+            "vhc_tms_id": 1,
+            "vhc_tms_name": "AT",
+            "vhc_seat_id": 1,
+            "vhc_seat_num": 6,
+            "vhc_fuel_id": 1,
+            "vhc_fuel_name": "Xăng",
+            "vhc_fuel_csum_num": 8,
+            "vhc_dgn_id": 2,
+            "vhc_dgn_name": "Sedan",
+            "vhc_imgs": [
+                {
+                    "vhc_img_id": 4,
+                    "vhc_img_name": "ảnh chụp nghiêng",
+                    "vhc_img_link": "assets/images/product/car1.png"
+                }
+            ]
+        },
+        "part": {
+            "part_id": 1,
+            "part_name": "Đại lí 3",
+            "part_addr": "166 Huế, Hai Bà Trưng District, Hanoi",
+            "part_stat_time": "00:00:00",
+            "part_end_time": "23:59:00",
+            "part_last_nigh_supt": 1,
+            "part_over_time_fee": 10000,
+            "part_pay_meths": [
+                {
+                    "pay_meth_id": 1,
+                    "pay_meth_name": "Trả sau",
+                    "pay_meth_ico": "assets/images/icon/ic-money.png",
+                    "pay_meth_des": ""
+                },
+                {
+                    "pay_meth_id": 2,
+                    "pay_meth_name": "Chuyển khoản",
+                    "pay_meth_ico": "assets/images/icon/ic-atm.png",
+                    "pay_meth_des": ""
+                },
+                {
+                    "pay_meth_id": 3,
+                    "pay_meth_name": "Thanh toán thẻ nội địa",
+                    "pay_meth_ico": "assets/images/icon/ic-atm.png",
+                    "pay_meth_des": ""
+                }
+            ],
+            "part_wdays": [
+                {
+                    "part_way_id": 1,
+                    "wday": {
+                        "wday_id": 6,
+                        "wday_name": "Thứ 7",
+                        "wday_indx": 6
+                    },
+                    "part_wday_exta_fee": 100000
+                },
+                {
+                    "part_way_id": 2,
+                    "wday": {
+                        "wday_id": 7,
+                        "wday_name": "Chủ nhật",
+                        "wday_indx": 0
+                    },
+                    "part_wday_exta_fee": 100000
+                }
+            ],
+            "part_holis": [
+                {
+                    "part_holi_id": 1,
+                    "holi": {
+                        "holi_id": 1,
+                        "holi_name": "02/09",
+                        "holi_day_from": "09-01",
+                        "holi_day_to": "09-02"
+                    },
+                    "part_holi_exta_fee": 20
+                }
+            ]
+        }
+    },
+    {
+        "vhc_part_id": 5,
+        "vhc_part_name": "Outlander 2.0 CVT 2016",
+        "vhc_part_year": 2016,
+        "vhc_part_defa_prie": 600000,
+        "vhc_part_prty": 1,
+        "vhc_part_star": 5,
+        "vhc": {
+            "vhc_id": 1,
+            "vhc_name": " 2.0 CVT",
+            "vhc_type_id": 1,
+            "vhc_type_name": "Ô tô",
+            "vhc_bran_id": 3,
+            "vhc_bran_name": "Mitsubishi",
+            "vhc_modl_id": 4,
+            "vhc_modl_name": "Outlander",
+            "vhc_egin_num": 2.0,
+            "vhc_tms_id": 1,
+            "vhc_tms_name": "AT",
+            "vhc_seat_id": 1,
+            "vhc_seat_num": 4,
+            "vhc_fuel_id": 1,
+            "vhc_fuel_name": "Xăng",
+            "vhc_fuel_csum_num": 8,
+            "vhc_dgn_id": 1,
+            "vhc_dgn_name": "Crossover",
+            "vhc_imgs": [
+                {
+                    "vhc_img_id": 5,
+                    "vhc_img_name": "ảnh chụp nghiêng",
+                    "vhc_img_link": "assets/images/product/car1.png"
+                }
+            ]
+        },
+        "part": {
+            "part_id": 1,
+            "part_name": "Đại lí 3",
+            "part_addr": "166 Huế, Hai Bà Trưng District, Hanoi",
+            "part_stat_time": "00:00:00",
+            "part_end_time": "23:59:00",
+            "part_last_nigh_supt": 1,
+            "part_over_time_fee": 10000,
+            "part_pay_meths": [
+                {
+                    "pay_meth_id": 1,
+                    "pay_meth_name": "Trả sau",
+                    "pay_meth_ico": "assets/images/icon/ic-money.png",
+                    "pay_meth_des": ""
+                },
+                {
+                    "pay_meth_id": 2,
+                    "pay_meth_name": "Chuyển khoản",
+                    "pay_meth_ico": "assets/images/icon/ic-atm.png",
+                    "pay_meth_des": ""
+                },
+                {
+                    "pay_meth_id": 3,
+                    "pay_meth_name": "Thanh toán thẻ nội địa",
+                    "pay_meth_ico": "assets/images/icon/ic-atm.png",
+                    "pay_meth_des": ""
+                }
+            ],
+            "part_wdays": [
+                {
+                    "part_way_id": 1,
+                    "wday": {
+                        "wday_id": 6,
+                        "wday_name": "Thứ 7",
+                        "wday_indx": 6
+                    },
+                    "part_wday_exta_fee": 100000
+                },
+                {
+                    "part_way_id": 2,
+                    "wday": {
+                        "wday_id": 7,
+                        "wday_name": "Chủ nhật",
+                        "wday_indx": 0
+                    },
+                    "part_wday_exta_fee": 100000
+                }
+            ],
+            "part_holis": [
+                {
+                    "part_holi_id": 1,
+                    "holi": {
+                        "holi_id": 1,
+                        "holi_name": "02/09",
+                        "holi_day_from": "09-01",
+                        "holi_day_to": "09-02"
+                    },
+                    "part_holi_exta_fee": 20
+                }
+            ]
+        }
+    }
+]

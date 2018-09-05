@@ -1,0 +1,406 @@
+{
+  "background_area": {
+    "quick_book": {
+      "input": {
+        "btn": "Booking now",
+        "date_drop": "returning date",
+        "date_pick": "Received date",
+        "time_drop": "returning time",
+        "time_pick": "Pick up time"
+      },
+      "province": {
+        "hcm": "Ho Chi Minh",
+        "hn": "Ha Noi",
+        "title": "select province"
+      },
+      "title": "Do you need a car rental?",
+      "type": {
+        "car": "Car",
+        "motor": "Motor"
+      }
+    },
+    "text": "Unlimited travel with chungxe.vn"
+  },
+  "booking": {
+    "car": "Car",
+    "motor": "Motor"
+  },
+  "footer": {
+    "contact": {
+      "email": "support@chungxe.vn",
+      "phone": "19006022",
+      "title": "Contact"
+    },
+    "copyright": {
+      "content": "Copyright by chungxe.vn",
+      "regulations": "Regulations",
+      "rules": "Rules"
+    },
+    "introduction": {
+      "about": "About chungxe.vn",
+      "news": "News",
+      "partner": "Partner",
+      "recruitment": "Recruitment",
+      "title": "Introduction"
+    },
+    "policy": {
+      "incident": "Incident & complaint",
+      "insurance": "Property insurance",
+      "partner": "Transport partner",
+      "service": "Use Service ",
+      "title": "Policy"
+    },
+    "support": {
+      "car_rental": "Guide car rental",
+      "handbook": "Travel handbook",
+      "questions": "Frequently asked questions",
+      "title": "Support",
+      "use": "User manual"
+    }
+  },
+  "howitwork_area": {
+    "btn": "See details",
+    "step1": {
+      "content": "Quickly place a car like through our website",
+      "title": "Book a car"
+    },
+    "step2": {
+      "content": "Get car at home or dealer in our area",
+      "title": "Receive the car"
+    },
+    "step3": {
+      "content": "All our vehicles are safe",
+      "title": "Enjoy"
+    },
+    "title": "How car booking"
+  },
+  "media": {
+    "benefit": "The benefits of car sharing",
+    "btn": "Learn more",
+    "holiday": "Car sharing holidays",
+    "service": "Chungxe.vn - Practical services for the benefit of the community",
+    "title": "What the media says"
+  },
+  "featured_products":{
+    "only":"Only from",
+    "unit": "VND/day"
+  },
+  "menu": {
+    "account": {
+      "exit": "Log out",
+      "history": "History of car rental",
+      "info": "Personal information",
+      "password": "Change password",
+      "payment": "Payment information"
+    },
+    "btn": "Become a partner",
+    "home": "About us",
+    "login": "Login",
+    "promotion": "Promotion",
+    "search": "Look up car reservation",
+    "support": "Support"
+  },
+  "partner_area": {
+    "title": "My partner"
+  },
+  "products": {
+    "title": "Featured Products"
+  },
+  "useful_area": {
+    "convenient": {
+      "content": "Easily search, compare and book your car with just a few clicks",
+      "title": "Convenient"
+    },
+    "opt": {
+      "content": "Hundreds of vehicles are available in many locations throughout the country, suitable for all purposes",
+      "title": "Many choices"
+    },
+    "price": {
+      "content": "Rent is publicly listed and 10% cheaper than traditional rates",
+      "title": "Competitive price"
+    },
+    "security": {
+      "content": "All customer information is confidential",
+      "title": "Security"
+    },
+    "support": {
+      "content": "There are customer support staff during the car rental process",
+      "title": "24/7 support"
+    },
+    "title": "Benifit of chungxe.vn",
+    "trust": {
+      "content": "All vehicles have a service life of less than 3 years and are regularly serviced",
+      "title": "Trust"
+    }
+  },
+  "validate": {
+    "email": "Email not format",
+    "required": "Required",
+    "phone": "Phone not format",
+    "password": "Password is too short",
+    "confirm": "Passwords are not equal",
+    "email_phone": "Email/Phone not format",
+    "quick_book": "Please enter full infomation"
+  },
+  "change_password": {
+    "title": "Change password",
+    "pass_old": "Old password",
+    "pass_new": "New password",
+    "pass_confirm": "Confirm new password",
+    "placehodle_passold": "Enter old password...",
+    "placehodle_passnew": "Enter new password...",
+    "placehodle_confirm": "Enter confirm new password..."
+  },
+  "payment_info": {
+    "title": "PAYMENT INFORMATION",
+    "btn_add": "Add a form of payment"
+  },
+  "history_rental": {
+    "placehodle_comment": "Your feeling",
+    "btn_comment": "Save a comment",
+    "info_custome": "CUSTOMER INFORMATION",
+    "detail_reservation": "CAR RESERVATION DETAILS",
+    "name": "Name",
+    "phone": "Phone number",
+    "email": "Email",
+    "address_received": "Address received",
+    "status": "Status",
+    "payment_form": "Payment form",
+    "code_received": "Car reservation code",
+    "value_tax": "Tax value",
+    "time_rental": "Time rental",
+    "btn_back": "Back"
+  },
+  "history": {
+    "menu": {
+      "complete": "Complete",
+      "upcoming": "Upcoming",
+      "hiring": "Hiring",
+      "cancelled": "Cancelled",
+      "type": {
+        "car": "Car",
+        "motor": "Motor"
+      }
+    },
+    "complete": {
+      "code_received": "Reservation code:",
+      "date_book": "Date book car: ",
+      "time": "Time: ",
+      "price_rent": "Rent price: ",
+      "btn_detail": "Detail",
+      "btn_cancel": "Cancel"
+    }
+  },
+  "user_info": {
+    "title": "PERSONAL INFORMATION",
+    "name": "Name",
+    "phone": "Phone",
+    "email": "Email",
+    "edit": "Edit",
+    "license": "License",
+    "add_license": "Add license",
+    "change_avatar": "Change avatar"
+  },
+  "register": {
+    "email": {
+      "label": "Email",
+      "placeholder": "Enter email..."
+    },
+    "phone": {
+      "label": "Phone number",
+      "placeholder": "Enter phone number..."
+    },
+    "password": {
+      "label": "Password",
+      "placeholder": "Enter password..."
+    },
+    "confirm": {
+      "label": "Enter the password",
+      "placeholder": "Enter the password..."
+    },
+    "btn_register": "Booking now!",
+    "btn_back": "Back",
+    "note": "required content"
+  },
+  "login": {
+    "email": {
+      "label": "Email/Phone number",
+      "placeholder": "Enter email/phone number..."
+    },
+    "password": {
+      "label": "Password",
+      "placeholder": "Enter password...",
+      "forget": "Forget password"
+    },
+    "btn_login": "Login",
+    "btn_back": "Back",
+    "path": "or login by"
+  },
+  "customer_info": {
+    "title": {
+      "head": "Customer information",
+      "description": "Enter your personal information to proceed"
+    },
+    "form": {
+      "fullname": {
+        "label": "Fullname",
+        "placeholder": "Enter fullname"
+      },
+      "phone": {
+        "label": "Phone number ",
+        "placeholder": "Enter phone number"
+      },
+      "address": {
+        "label": "Address to receive vehicle ",
+        "placeholder": "Enter address to receive vehicle "
+      },
+      "email": {
+        "label": "Email ",
+        "placeholder": "Enter email"
+      },
+      "payment": {
+        "label": "Payments",
+        "select": "Choose form of payment"
+      },
+      "btn_next": "Enter information to continue",
+      "btn_back": "Back"
+    }
+  },
+  "process": {
+    "one": "Choose vehicle",
+    "two": "View prices & procedures",
+    "three": "Customer information",
+    "four": "Complete"
+  },
+  "complete": {
+    "content": {
+      "title": "BOOKING VEHICLE SUCCESS",
+      "text": {
+        "line1":"Request your car have been system received.",
+        "line2":"Vehicle will be assigned to the registered address in 24 hours from the complete bus.",
+        "line3":"Bus time will be reported before 12 hours over the phone."},
+      "btn_home": "Go to home",
+      "btn_cancel": "Cancel vehicle booking",
+      "note": "Note:",
+      "content_note":{
+        "line1":"- Pay for car rental before driving",
+        "line2":"- If you rent a car for 02 days or more, you must check the cooling water, engine oil, if not immediately.",
+        "line3":"- When the vehicle is operating regularly, notice the signal lamp on the taplo table. If the warning light is detected or the vehicle is abnormal, it must stop the vehicle or call the vehicle immediately. Otherwise, the car rent will be fully repaired.",
+        "line4":"- Strictly obey the road traffic law. Self-responsible civil and criminal during car rental.",
+        "line5":"- Self-costs of gasoline, bridge ferry, yard, hot fines, cold fines in accordance with the provisions of Vietnamese law.",
+        "line6":"- In the event of a breach of the rental contract and a fine, all liability and fines shall be borne by the lessee"
+      }
+    },
+    "customer": {
+      "title": "CUSTOMER INFORMATION",
+      "fullname": "FULLNAME",
+      "phone": "PHONE NUMBER",
+      "email": "EMAIL",
+      "address": "ADDRESS TO RECEIVE VEHICLE",
+      "btn": "Edit"
+    },
+    "vehicle": {
+      "title": "VEHICLE BOOKING DETAILS",
+      "status": "STATUS",
+      "payment": "PAYMENT",
+      "code": "ORDER CODE VEHICLE",
+      "type": "VEHICLE TYPE",
+      "form": "FORM OF RECEIVING VEHICLES",
+      "time": "TIME",
+      "btn": "Edit"
+    }
+  },
+  "select_carriage": {
+    "vehicle":{
+      "btn_detail": "Detail",
+      "note1": "Price by day",
+      "note2": "Price does not include delivery fee",
+      "unit" : "VND"
+    },
+    "left": {
+      "car": "Car",
+      "motor": "Motor",
+      "motorbike": "Motorbike",
+      "handclutch": "Hand clutch",
+      "hanoi": "Ha Noi",
+      "hcm": "Ho Chi Minh",
+      "hue": "Hue",
+      "price_range": "Price range"
+    },
+    "options": {
+      "range": "Sort results",
+      "increase": "From low to high",
+      "reduction": "From high to low",
+      "grid": "Grid",
+      "list": "List"
+    },
+    "unit": "VND",
+    "day": "/ day"
+  },
+  "preview_price": {
+    "unit": "VND",
+    "day": "/ day",
+    "info_right": {
+      "mode": "VEHICLE RECEIVE MODE",
+      "placeholder": "Select the receive mode",
+      "at_home": "Receive at home",
+      "at_dealer": "Receive at garage",
+      "time": "TIME",
+      "promotion_code": "PROMOTIONAL CODE",
+      "placeholder_promotion": "Enter promotional code...",
+      "limit_distance": "LIMIT DISTANCE",
+      "price_detail": "PRICE DETAIL",
+      "price": "Unit price",
+      "day": "Day",
+      "total": "TOTAL",
+      "note": "*total amount not including delivery fee",
+      "btn_continue": "Continue",
+      "btn_back": "Back"
+    },
+    "info_left": {
+      "describe": "DESCRIBE",
+      "features": "FEATURE",
+      "procedure": "PROCEDURE",
+      "payment": "ACCEPT PAYMENT",
+      "prepay": "Prepay",
+      "postpaid": "Postpaid"
+    },
+    "info_car": {
+      "seat": "seat",
+      "gasoline": "Gasoline",
+      "auto": "Number automatically",
+      "air_conditioner": "Air conditioner",
+      "motorbike": "Motorbike",
+      "cmnd_passport": "CMND/Passport",
+      "sunroof": "Sunroof",
+      "bluetooth": "Bluetooth",
+      "gprs": "GPRS positioning",
+      "usb": "USB slot",
+      "note": "(for visitors)"
+    },
+    "info_motor": {
+      "gasoline": "Gasoline",
+      "disc_brakes": "Disc brakes",
+      "scooter": "Scooter",
+      "anti_lock": "Anti-lock brake",
+      "smart_lock": "Smart lock",
+      "license": "License",
+      "cmnd_passport": "CMND/Passport"
+    }
+  },
+  "about":{
+    "company":{
+      "l1": "ChungXe là đơn vị tiên phong trong việc phát triển nền tảng trực tuyến cho thuê và chia sẻ phương tiện đi lại (ô tô, xe máy) tự lái ở Việt Nam.",
+      "l2": "ChungXe kết nối các đơn vị cho thuê xe cũng như cá nhân có xe nhàn rỗi trên toàn quốc với khách hàng cầm thuê xe tự lái thông qua nền tảng trực tuyến và di dộng. Khách hàng có thể tìm kiếm, so sánh giá, thuê xe và thanh toán một cách dễ dàng, nhanh chóng.",
+      "l3": "ChungXe được thành lập với sứ mệnh dùng nền tảng công nghệ hiện đại để cho phép việc thuê và chia sẻ xe một cách Nhanh chóng, An toàn và Tiết kiệm. Chungxe.vn nhắm tới tạo ra cộng đồng cho thuê và chia sẻ phương tiện đi lại một cách văn minh và hạn chế việc sở hữu xe."
+    },
+    "why-do":{
+      "l1":"> Hiện chưa có một nền tảng trực tuyến cho thuê & chia sẻ xe ở Việt Nam.",
+      "l2":"> Khách hàng rất khó thuê được xe tự lái như ý, trong khi cá nhân có xe nhàn rỗi hoặc các đơn vị cho thuê xe chưa có công nghệ để quản lý, tối ưu tài sản của mình.",
+      "l3":"> Khách hàng đã quen với việc đặt các dịch vụ vận chuyển qua kênh online/ mobile.",
+      "l4":"> Chia sẻ phương tiện đang trở thành xu hường chính trên thế giới thay cho việc sở hữu xe."
+    },
+    "operating":"Chung Xe không chỉ cho thuê xe, chúng tôi tạo ra những sản phẩm hoàn chỉnh trong hệ sinh thái hiện có. Chúng tôi cung cấp một giải pháp toàn diện cho vấn đề giao thông đô thị bằng cách kết nối hành khách với các nhà cung cấp dịch vụ cho thuê xe tự lái. Chung Xe là một nền tảng mà chủ sở hữu xe có thể thu hút khách hàng và tiến hành kinh doanh một cách thuận tiện. Chúng tôi tập trung đơn giản hóa quá trình thuê xe bằng cách tạo ra các cơ chế có thể mở rộng, tạo thuận lợi cho các giao dịch trong khi chứng minh một phương thức giao thông kinh tế cho tất cả mọi người."
+  }
+
+}

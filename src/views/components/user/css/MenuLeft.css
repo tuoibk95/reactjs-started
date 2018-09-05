@@ -1,0 +1,29 @@
+.divIcon {
+    width: 71px;
+    height: 100%;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.iconMenu {
+    width: 26px;
+    height: 25px;
+    object-fit: contain;
+    mix-blend-mode: undefined;
+}
+
+.iconMenu :hover {
+    color: '#ffffff'
+}
+
+.itemListMenu {
+    width: 364px;
+    height: 81px;
+}
+.item-menu {
+    list-style-type: none;
+    border-bottom: 1px solid #ddd;
+    padding: 20px 10px 20px 65px;
+    color: #000000;
+    text-align: left;
+}

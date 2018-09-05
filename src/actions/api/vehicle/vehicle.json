@@ -1,0 +1,179 @@
+{
+    "vhc_part_id": 1,
+    "vhc_part_name": "Ford Everest Titanium 2.2AT 4x2 2016",
+    "vhc_part_year": 2016,
+    "vhc_part_defa_prie": 700000,
+    "vhc_part_prty": 1,
+    "vhc_part_star": 5,
+    "vhc": {
+        "vhc_id": 1,
+        "vhc_name": "Titanium 2.2AT 4x2",
+        "vhc_type_id": 1,
+        "vhc_type_name": "Ô tô",
+        "vhc_bran_id": 1,
+        "vhc_bran_name": "Ford",
+        "vhc_modl_id": 1,
+        "vhc_modl_name": "Everest",
+        "vhc_egin_num": 2.2,
+        "vhc_tms_id": 1,
+        "vhc_tms_name": "Auto",
+        "vhc_seat_id": 1,
+        "vhc_seat_num": 6,
+        "vhc_fuel_id": 1,
+        "vhc_fuel_name": "Xăng",
+        "vhc_dgn_id": 1,
+        "vhc_dgn_name": "SUV",
+        "vhc_fuel_csum_num": 8,
+        "vhc_des": "Xe mới",
+        "vhc_polc": "",
+        "vhc_slug": "",
+        "vhc_prty": 1,
+        "vhc_hide": 0,
+        "vhc_imgs": [
+            {
+                "vhc_img_id": "1",
+                "vhc_img_name": "ảnh chụp nghiêng",
+                "vhc_img_link": "assets/images/product/car1.png"
+            }
+        ],
+        "vhc_opts": [
+            {
+                "vhc_opt_id": 1,
+                "vhc_opt_name": "Chống bó phanh",
+                "vhc_opt_ico": "assets/images/icon/ic-brakes.png",
+                "vhc_opt_prty": 1
+            },
+            {
+                "vhc_opt_id": 2,
+                "vhc_opt_name": "Có điều hòa",
+                "vhc_opt_ico": "assets/images/icon/ic-brakes.png",
+                "vhc_opt_prty": 1
+            },
+            {
+                "vhc_opt_id": 3,
+                "vhc_opt_name": "Khóa thông minh",
+                "vhc_opt_ico": "assets/images/icon/ic-bluetooth.png",
+                "vhc_opt_prty": 1
+            }
+        ]
+    },
+    "part": {
+        "part_id": 1,
+        "part_name": "Đại lí 3",
+        "part_phon": "0167455045",
+        "part_emai": "admin@ab3.vn",
+        "part_logo": "",
+        "city_id": 1,
+        "city_name": "Hà Nội",
+        "part_lat": 21.0148,
+        "part_lng": 105.849,
+        "part_addr": "166 Huế, Hai Bà Trưng District, Hanoi",
+        "part_ctac_name": null,
+        "part_ctac_mobi": null,
+        "part_pay_acc": null,
+        "part_web": null,
+        "part_stat_time": "00:00:00",
+        "part_end_time": "23:59:00",
+        "part_last_nigh_supt": 1,
+        "part_over_time_fee": null,
+        "part_lim_km": 300,
+        "part_over_km_fee": 10000,
+        "part_deli_free_km": 5,
+        "part_deli_over_km_fee": 10000,
+        "part_polc": null,
+        "part_slug": null,
+        "part_crta": "2018-08-23 12:18:58",
+        "part_upda": null,
+        "part_del": null,
+        "part_procs": [
+            {
+                "part_proc_id": 1,
+                "proc": {
+                    "proc_id": 1,
+                    "proc_name": "CMND",
+                    "proc_ico": "../assets/images/icon/ic-cmnd.png"
+                },
+                "part_proc_note": ""
+            },
+            {
+                "part_proc_id": 2,
+                "proc": {
+                    "proc_id": 1,
+                    "proc_name": "Sổ hộ khẩu",
+                    "proc_ico": "../assets/images/icon/ic-cmnd.png"
+                },
+                "part_proc_note": ""
+            },
+            {
+                "part_proc_id": 3,
+                "proc": {
+                    "proc_id": 1,
+                    "proc_name": "Bằng lái xe",
+                    "proc_ico": "../assets/images/icon/ic-cmnd.png"
+                },
+                "part_proc_note": ""
+            },
+            {
+                "part_proc_id": 4,
+                "proc": {
+                    "proc_id": 1,
+                    "proc_name": "Đặt cọc",
+                    "proc_ico": "../assets/images/icon/ic-money.png"
+                },
+                "part_proc_note": "15,000,000 Đ hoặc tài sản tương đương"
+            }
+        ],
+        "part_pay_meths": [
+            {
+                "pay_meth_id": 1,
+                "pay_meth_name": "Trả sau",
+                "pay_meth_ico": "../assets/images/icon/ic-money.png",
+                "pay_meth_des": ""
+            },
+            {
+                "pay_meth_id": 2,
+                "pay_meth_name": "Chuyển khoản",
+                "pay_meth_ico": "../assets/images/icon/ic-atm.png",
+                "pay_meth_des": ""
+            },
+            {
+                "pay_meth_id": 3,
+                "pay_meth_name": "Thanh toán thẻ nội địa",
+                "pay_meth_ico": "../assets/images/icon/ic-atm.png",
+                "pay_meth_des": ""
+            }
+        ],
+        "part_wdays": [
+            {
+                "part_way_id": 1,
+                "wday": {
+                    "wday_id": 6,
+                    "wday_name": "Thứ 7",
+                    "wday_indx": 6
+                },
+                "part_wday_exta_fee": 100000
+            },
+            {
+                "part_way_id": 2,
+                "wday": {
+                    "wday_id": 7,
+                    "wday_name": "Chủ nhật",
+                    "wday_indx": 0
+                },
+                "part_wday_exta_fee": 100000
+            }
+        ],
+        "part_holis": [
+            {
+                "part_holi_id": 1,
+                "holi": {
+                    "holi_id": 1,
+                    "holi_name": "02/09",
+                    "holi_day_from": "09-01",
+                    "holi_day_to": "09-02"
+                },
+                "part_holi_exta_fee": 20
+            }
+        ]
+    }
+}

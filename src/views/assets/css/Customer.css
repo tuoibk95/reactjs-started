@@ -1,0 +1,13 @@
+.btn_next {
+    width: 330px;
+    height: 48px;
+    border-radius: 4px;
+    background-image: linear-gradient(to top, #054248, #119fa5);
+  }
+.btn_back {
+    width: 330px;
+    height: 48px;
+    border-radius: 4px;
+    background-color: #ffffff;
+    border: solid 2px #107d82;
+}

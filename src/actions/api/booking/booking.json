@@ -1,0 +1,70 @@
+{
+    "book_id": 1,
+    "book_code": "",
+    "use_acc_id": "",
+    "cstm_name": "",
+    "cstm_phon": "",
+    "cstm_emai": "",
+    "cstm_deli_addr": "",
+    "cstm_pay_meth_id": "",
+    "vhc_part_id": "",
+    "vhc_part_name": "",
+    "part_id": "",
+    "part_name": "",
+    "city_id": "",
+    "city_name": "",
+    "vhc_type_id": "",
+    "vhc_type_name": "",
+    "book_rent_date": "",
+    "book_retun_date": "",
+    "book_day_num": "",
+    "book_exta_hour_num": "",
+    "book_wday_num": "",
+    "book_holi_num": "",
+    "book_deli_form_id": "",
+    "promo_code": "",
+    "promo_val": "",
+    "book_stt": {
+        "book_stt_id": 1,
+        "book_stt_name": "",
+        "book_stt_ico": ""
+    },
+    "book_prie_tota": "",
+    "book_crta": "",
+    "book_upda": "",
+    "book_del": "",
+    "book_fedbak": [
+        {
+            "book_fedbak_id": "",
+            "user_id": "",
+            "book_fedbak_star": "",
+            "book_fedbak_cmt": "",
+            "book_fedbak_crta": "",
+            "book_fedbak_del": ""
+        }
+    ],
+    "book_prie_detl": [
+        {
+            "book_prie_detl_id": "",
+            "book_prie_type": {
+                "book_prie_type_id": "",
+                "book_prie_type_code": "",
+                "book_prie_type_name": ""
+            },
+            "prie_type_qaty": "",
+            "unit_price": "",
+            "detl_price_tota": ""
+        },
+        {
+            "book_prie_detl_id": "",
+            "book_prie_type": {
+                "book_prie_type_id": "",
+                "book_prie_type_code": "",
+                "book_prie_type_name": ""
+            },
+            "prie_type_qaty": "",
+            "unit_price": "",
+            "detl_price_tota": ""
+        }
+    ]
+}

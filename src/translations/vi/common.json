@@ -1,0 +1,508 @@
+{
+    "background_area": {
+        "quick_book": {
+            "input": {
+                "btn": "Đặt xe ngay",
+                "date_drop": "Ngày trả xe",
+                "date_pick": "Ngày nhận xe",
+                "time_drop": "Giờ trả xe",
+                "time_pick": "Giờ nhận xe"
+            },
+            "province": {
+                "hcm": "Hồ Chí Minh",
+                "hn": "Hà Nội",
+                "title": "Chọn tỉnh thành"
+            },
+            "title": "Bạn cần thuê xe?",
+            "type": {
+                "car": "Ô tô",
+                "motor": "Xe máy"
+            }
+        },
+        "text": "Đi lại thoải mái không giới hạn cùng chungxe.vn"
+    },
+    "booking": {
+        "car": "Ô tô",
+        "motor": "Xe máy"
+    },
+    "footer": {
+        "contact": {
+            "email": "support@chungxe.vn",
+            "phone": "19006022",
+            "title": "Liên hệ"
+        },
+        "copyright": {
+            "content": "Bản quyền thuộc về chungxe.vn",
+            "regulations": "Quy định",
+            "rules": "Điều khoản"
+        },
+        "introduction": {
+            "about": "Về chungxe.vn",
+            "news": "Tin tức",
+            "partner": "Đối tác",
+            "recruitment": "Tuyển dụng",
+            "title": "Giới thiệu"
+        },
+        "policy": {
+            "incident": "Sự cố & Khiếu nại",
+            "insurance": "Bảo hiểm tài sản",
+            "partner": "Đối tác vận chuyển",
+            "service": "Sử dụng dịch vụ",
+            "title": "Chính sách"
+        },
+        "support": {
+            "car_rental": "Hướng dẫn thuê xe",
+            "handbook": "Cẩm nang đi lại",
+            "questions": "Câu hỏi thường gặp",
+            "title": "Hỗ trợ",
+            "use": "Hướng dẫn sử dụng"
+        }
+    },
+    "howitwork_area": {
+        "btn": "Xem chi tiết",
+        "step1": {
+            "content": "Nhanh chóng đặt một chiếc xe ưng ý thông qua Website của chúng tôi",
+            "title": "Đặt xe"
+        },
+        "step2": {
+            "content": "Nhận xe tại nhà hoặc các đại lý trong khu vực của chúng tôi",
+            "title": "Nhận xe"
+        },
+        "step3": {
+            "content": "Tất cả các phương tiện của chúng tôi đều đoạt chuẩn an toàn",
+            "title": "Tận hưởng"
+        },
+        "title": "Đặt xe như thế nào"
+    },
+    "media": {
+        "benefit": "Lợi ích của việc đi chung xe",
+        "btn": "Tìm hiểu thêm",
+        "holiday": "Chung xe dịp lễ tết",
+        "service": "Chungxe.vn - Dịch vụ thiết thực vì lợi ích cộng đồng",
+        "title": "Truyền thông nói gì"
+    },
+    "featured_products": {
+        "only": "Chỉ từ",
+        "unit": "VNĐ/ngày"
+    },
+    "menu": {
+        "account": {
+            "exit": "Đăng xuất",
+            "history": "Lịch sử thuê xe",
+            "info": "Thông tin cá nhân",
+            "password": "Đổi mật khẩu",
+            "payment": "Thông tin thanh toán"
+        },
+        "btn": "Trở thành đối tác",
+        "home": "Về chúng tôi",
+        "login": "Đăng nhập",
+        "promotion": "Khuyến mãi",
+        "search": "Tra cứu đặt xe",
+        "support": "Hỗ trợ"
+    },
+    "partner_area": {
+        "title": "Đối tác của chúng tôi"
+    },
+    "products": {
+        "title": "Sản phẩm nổi bật"
+    },
+    "useful_area": {
+        "convenient": {
+            "content": "Dễ dàng tìm kiếm, so sánh và đặt chiếc xe như ý với chỉ vài click chuột",
+            "title": "Thuận tiện"
+        },
+        "opt": {
+            "content": "Hàng trăm loại xe đa dạng ở nhiều địa điểm trên cả nước, phù hợp với mọi mục đích của bạn",
+            "title": "Nhiều lựa chọn"
+        },
+        "price": {
+            "content": "Giá thuê được niêm yết công khai và rẻ hơn 10% so với giá truyền thống",
+            "title": "Giá cả cạnh tranh"
+        },
+        "security": {
+            "content": "Mọi thông tin khách hàng đều được bảo mật cẩn thận",
+            "title": "Bảo mật"
+        },
+        "support": {
+            "content": "Có nhân viên hỗ trợ khách hàng trong suốt quá trình thuê xe",
+            "title": "Hỗ trợ 24/7"
+        },
+        "title": "Lợi ích của chungxe.vn",
+        "trust": {
+            "content": "Các xe đều có thời gian sử dụng dưới 3 năm và được bảo dưỡng thường xuyên",
+            "title": "Tin cậy"
+        }
+    },
+    "validate": {
+        "email": "Email không đúng định dạng",
+        "required": "Bắt buộc",
+        "phone": "Số điện thoại không đúng",
+        "password": "Mật khẩu quá ngắn",
+        "confirm": "Mật khẩu không khớp",
+        "email_phone": "Email/Số điện thoại không đúng",
+        "quick_book": "Vui lòng nhập đầy đủ thông tin"
+    },
+    "change_password": {
+        "title": "Đổi mật khẩu",
+        "pass_old": "Mật khẩu cũ",
+        "pass_new": "Mật khẩu mới",
+        "pass_confirm": "Nhập lại mật khẩu",
+        "placehodle_passold": "Nhập mật khẩu cũ...",
+        "placehodle_passnew": "Nhập mật khẩu mới...",
+        "placehodle_confirm": "Nhập lại mật khẩu..."
+    },
+    "payment_info": {
+        "title": "THÔNG TIN THANH TOÁN",
+        "btn_add": "Thêm hình thức thanh toán"
+    },
+    "history_rental": {
+        "placehodle_comment": "Cảm nhận của bạn",
+        "btn_comment": "Lưu nhận xét",
+        "info_custome": "THÔNG TIN KHÁCH HÀNG",
+        "detail_reservation": "CHI TIẾT ĐẶT XE",
+        "name": "Họ tên",
+        "phone": "Số điện thoại",
+        "email": "Email",
+        "address_received": "Địa điểm nhận xe",
+        "status": "Trạng thái",
+        "payment_form": "Hình thức thanh toán",
+        "code_received": "Mã đặt xe",
+        "value_tax": "Giá trị thuế",
+        "time_rental": "Thời gian thuê",
+        "btn_back": "Quay lại"
+    },
+    "history": {
+        "menu": {
+            "complete": "Hoàn tất",
+            "upcoming": "Sắp tới",
+            "hiring": "Đang thuê",
+            "cancelled": "Đã hủy",
+            "type": {
+                "car": "Ô tô",
+                "motor": "Xe máy"
+            }
+        },
+        "complete": {
+            "code_received": "Mã đặt xe: ",
+            "date_book": "Ngày đặt: ",
+            "time": "Thời gian: ",
+            "price_rent": "Giá thuê: ",
+            "btn_detail": "Chi tiết",
+            "btn_cancel": "Hủy đặt xe"
+        }
+    },
+    "user_info": {
+        "title": "THÔNG TIN CÁ NHÂN",
+        "name": "Họ & tên",
+        "phone": "Số điện thoại",
+        "email": "Email",
+        "edit": "Chỉnh sửa",
+        "license": "Bằng lái xe",
+        "add_license": "Thêm bằng lái",
+        "change_avatar": "Thay ảnh đại diện"
+    },
+    "register": {
+        "email": {
+            "label": "Email",
+            "placeholder": "Nhập email..."
+        },
+        "phone": {
+            "label": "Số điện thoại",
+            "placeholder": "Nhập số điện thoại..."
+        },
+        "password": {
+            "label": "Mật khẩu",
+            "placeholder": "Nhập mật khẩu..."
+        },
+        "confirm": {
+            "label": "Nhập lại mật khẩu",
+            "placeholder": "Nhập lại mật khẩu..."
+        },
+        "btn_register": "Đặt xe ngay!",
+        "btn_back": "Quay lại",
+        "note": "nội dung bắt buộc"
+    },
+    "login": {
+        "email": {
+            "label": "Email/Số điện thoại",
+            "placeholder": "Nhập email/Số điện thoại..."
+        },
+        "password": {
+            "label": "Mật khẩu",
+            "placeholder": "Nhập mật khẩu...",
+            "forget": "Quên mật khẩu"
+        },
+        "btn_login": "Đăng nhập",
+        "btn_back": "Quay lại",
+        "path": "hoặc đăng nhập bằng"
+    },
+    "customer_info": {
+        "title": {
+            "head": "Thông tin khách hàng",
+            "description": "Nhập thông tin cá nhân để tiến hành đặt"
+        },
+        "form": {
+            "fullname": {
+                "label": "Họ và tên ",
+                "placeholder": "Nhập họ tên"
+            },
+            "phone": {
+                "label": "Số điện thoại ",
+                "placeholder": "Nhập số điện thoại"
+            },
+            "address": {
+                "label": "Địa chỉ nhận xe ",
+                "placeholder": "Nhập địa chỉ nhận xe "
+            },
+            "email": {
+                "label": "Email ",
+                "placeholder": "Nhập email"
+            },
+            "payment": {
+                "label": "Hình thức thanh toán",
+                "select": "Chọn hình thức thanh toán"
+            },
+            "btn_next": "Nhập thông tin để tiếp tục",
+            "btn_back": "Quay lại"
+        }
+    },
+    "process": {
+        "one": "Chọn xe",
+        "two": "Xem giá và thủ tục",
+        "three": "Thông tin khách hàng",
+        "four": "Hoàn tất"
+    },
+    "complete": {
+        "content": {
+            "title": "ĐẶT XE THÀNH CÔNG",
+            "text": {
+                "line1": "Yêu cầu đặt xe của bạn đã được hệ thống ghi nhận.",
+                "line2": "Xe sẽ được giao đến địa chỉ đã đăng ký trong vòng 24 giờ kể từ lúc hoàn tất đặt xe.",
+                "line3": "Thời điểm giao xe sẽ được báo trước 12 giờ qua điện thoại."
+            },
+            "btn_home": "Về trang chủ",
+            "btn_cancel": "Hủy đặt xe",
+            "note": "Lưu ý:",
+            "content_note": {
+                "line1": "- Thanh toán tiền thuê xe trước khi chạy xe",
+                "line2": "- Nếu thuê xe từ 02 ngày trở lên phải kiểm tra nước làm mát, dầu máy, nếu thiếu phải bổ sung ngay.",
+                "line3": "- Khi xe đang vận hành thường xuyên để ý đèn báo hiệu trên bảng taplo, nếu thấy đèn báo sự cố, hoặc xe có hiện tượng khác thường phải dừng xe kiểm tra hoặc gọi điện thoại báo ngay cho Bên thuê xe. Nếu không Bên thuê xe sẽ chịu hoàn toàn phí sửa xe.",
+                "line4": "- Nghiêm túc chấp hành luật giao thông đường bộ. Tự chịu trách nhiệm dân sự, hình sự trong suốt thời gian thuê xe.",
+                "line5": "- Tự chịu chi phí xăng dầu, cầu phà, bến bãi, tiền phạt nóng, tiền phạt nguội theo các lỗi mà luật pháp Việt Nam quy định.",
+                "line6": "- Trong trường hợp bên thuê xe vi phạm, và bị phạt nguội, sẽ phải chịu hoàn toàn trách nhiệm cùng tổn phí bị phạt."
+            }
+        },
+        "customer": {
+            "title": "THÔNG TIN KHÁCH HÀNG",
+            "fullname": "HỌ & TÊN",
+            "phone": "SỐ ĐIỆN THOẠI",
+            "email": "EMAIL",
+            "address": "ĐỊA CHỈ NHẬN XE",
+            "btn": "Chỉnh sửa"
+        },
+        "vehicle": {
+            "title": "CHI TIẾT ĐẶT XE",
+            "status": "TRẠNG THÁI",
+            "payment": "THANH TOÁN",
+            "code": "MÃ ĐẶT XE",
+            "type": "LOẠI XE",
+            "form": "HÌNH THỨC NHẬN XE",
+            "time": "THỜI GIAN",
+            "btn": "Chỉnh sửa"
+        }
+    },
+    "select_carriage": {
+        "vehicle": {
+            "btn_detail": "Chi tiết",
+            "note1": "Giá tính theo ngày",
+            "note2": "Giá chưa bao gồm phí giao xe",
+            "unit": "VNĐ"
+        },
+        "left": {
+            "car": "Ô tô",
+            "motor": "Xe máy",
+            "motorbike": "Xe tay ga",
+            "handclutch": "Xe tay côn",
+            "hanoi": "Hà Nội",
+            "hcm": "Hồ Chí Minh",
+            "hue": "Huế",
+            "price_range": "Tầm giá"
+        },
+        "options": {
+            "range": "Sắp xếp kết quả",
+            "increase": "Từ thấp đến cao",
+            "reduction": "Từ cao đến thấp",
+            "grid": "Lưới",
+            "list": "Danh sách"
+        },
+        "unit": "VNĐ",
+        "day": "/ ngày"
+    },
+    "preview_price": {
+        "unit": "VNĐ",
+        "day": "/ ngày",
+        "info_right": {
+            "mode": "HÌNH THỨC NHẬN XE",
+            "placeholder": "Chọn hình thức nhận xe",
+            "at_home": "Nhận xe tại nhà",
+            "at_dealer": "Nhận xe tại nhà xe",
+            "time": "THỜI GIAN",
+            "promotion_code": "MÃ KHUYẾN MÃI",
+            "placeholder_promotion": "Nhập mã khuyến mại...",
+            "limit_distance": "GIỚI HẠN QUÃNG ĐƯỜNG",
+            "price_detail": "CHI TIẾT GIÁ",
+            "price": "Đơn giá",
+            "day": "Ngày",
+            "total": "TỔNG",
+            "note": "*tổng số tiền chưa bao gồm phí giao xe",
+            "btn_continue": "Hoàn tất để tiếp tục",
+            "btn_back": "Quay lại"
+        },
+        "info_left": {
+            "describe": "MÔ TẢ",
+            "features": "TÍNH NĂNG",
+            "procedure": "THỦ TỤC",
+            "payment": "CHẤP NHẬN THANH TOÁN",
+            "prepay": "Trả trước",
+            "postpaid": "Trả sau"
+        },
+        "info_car": {
+            "seat": "chỗ",
+            "gasoline": "xăng",
+            "auto": "Số tự động",
+            "air_conditioner": "Điều hòa",
+            "motorbike": "Xe máy",
+            "cmnd_passport": "CMND/Passport",
+            "sunroof": "Cửa sổ trời",
+            "bluetooth": "Bluetooth",
+            "gprs": "Định vị GPRS",
+            "usb": "Khe cắm USB",
+            "note": "(Dành cho du khách)"
+        },
+        "info_motor": {
+            "gasoline": "Xăng",
+            "disc_brakes": "Phanh đĩa",
+            "scooter": "Tay ga",
+            "anti_lock": "Chống bó phanh",
+            "smart_lock": "Khóa thông minh",
+            "license": "Bằng lái xe",
+            "cmnd_passport": "CMND/Passport"
+        }
+    },
+    "about": {
+        "company": {
+            "l1": "ChungXe là đơn vị tiên phong trong việc phát triển nền tảng trực tuyến cho thuê và chia sẻ phương tiện đi lại (ô tô, xe máy) tự lái ở Việt Nam.",
+            "l2": "ChungXe kết nối các đơn vị cho thuê xe cũng như cá nhân có xe nhàn rỗi trên toàn quốc với khách hàng cầm thuê xe tự lái thông qua nền tảng trực tuyến và di dộng. Khách hàng có thể tìm kiếm, so sánh giá, thuê xe và thanh toán một cách dễ dàng, nhanh chóng.",
+            "l3": "ChungXe được thành lập với sứ mệnh dùng nền tảng công nghệ hiện đại để cho phép việc thuê và chia sẻ xe một cách Nhanh chóng, An toàn và Tiết kiệm. Chungxe.vn nhắm tới tạo ra cộng đồng cho thuê và chia sẻ phương tiện đi lại một cách văn minh và hạn chế việc sở hữu xe."
+        },
+        "why-do": {
+            "l1": "> Hiện chưa có một nền tảng trực tuyến cho thuê & chia sẻ xe ở Việt Nam.",
+            "l2": "> Khách hàng rất khó thuê được xe tự lái như ý, trong khi cá nhân có xe nhàn rỗi hoặc các đơn vị cho thuê xe chưa có công nghệ để quản lý, tối ưu tài sản của mình.",
+            "l3": "> Khách hàng đã quen với việc đặt các dịch vụ vận chuyển qua kênh online/ mobile.",
+            "l4": "> Chia sẻ phương tiện đang trở thành xu hường chính trên thế giới thay cho việc sở hữu xe."
+        },
+        "operating": "Chung Xe không chỉ cho thuê xe, chúng tôi tạo ra những sản phẩm hoàn chỉnh trong hệ sinh thái hiện có. Chúng tôi cung cấp một giải pháp toàn diện cho vấn đề giao thông đô thị bằng cách kết nối hành khách với các nhà cung cấp dịch vụ cho thuê xe tự lái. Chung Xe là một nền tảng mà chủ sở hữu xe có thể thu hút khách hàng và tiến hành kinh doanh một cách thuận tiện. Chúng tôi tập trung đơn giản hóa quá trình thuê xe bằng cách tạo ra các cơ chế có thể mở rộng, tạo thuận lợi cho các giao dịch trong khi chứng minh một phương thức giao thông kinh tế cho tất cả mọi người."
+    },
+    "policy": {
+        "purpose": {
+            "l0": "Thông tin cá nhân của bạn chỉ được dùng trong những mục đích sau đây:",
+            "l1": "> Hỗ trợ việc đặt xe và cung cấp xe cho bạn.",
+            "l2": "> Liên lạc bạn trong cho mục đích tiếp thị của Chung Xe.",
+            "l3": "> Nâng cao chất lượng dịch vụ và hỗ trợ khách hàng.",
+            "l4": "> Giải quyết các sự vụ và tranh chấp phát sinh liên quan đến việc sử dụng dịch vụ trên Chung Xe.",
+            "l5": "> Cung cấp thông tin cho các cơ quan thực thi pháp luật theo yêu cầu."
+        },
+        "limit": {
+            "l1": "> Gửi các thông báo về các hoạt động trao đổi thông tin giữa thành viên và nền tảng Chung Xe;",
+            "l2": "> Ngăn ngừa các hoạt động phá hủy tài khoản người dùng của thành viên hoặc các hoạt động giả mạo Thành viên;",
+            "l3": "> Liên lạc và giải quyết với thành viên trong những trường hợp đặc biệt.",
+            "l4": "> Không sử dụng thông tin cá nhân của thành viên ngoài mục đích xác nhận và liên hệ có liên quan đến đặt xe và cung cấp xe.",
+            "l5": "> Trong trường hợp có yêu cầu của pháp luật: Nền tảng Chung Xe có trách nhiệm hợp tác cung cấp thông tin cá nhân thành viên khi có yêu cầu từ cơ quan tư pháp bao gồm: Viện kiểm sát, tòa án, cơ quan công an điều tra liên quan đến hành vi vi phạm pháp luật nào đó của thành viên. Ngoài ra, không ai có quyền xâm phạm vào thông tin cá nhân của thành viên."
+        },
+        "time": "Dữ liệu cá nhân của Khách hàng sẽ được lưu trữ cho đến khi có yêu cầu hủy bỏ hoặc tự Khách hàng đăng nhập và thực hiện hủy bỏ. Còn lại trong mọi trường hợp thông tin cá nhân của Khách hàng sẽ được bảo mật trên máy chủ của Công ty.",
+
+        "service": {
+            "l1": "Chung Xe là cộng đồng online chia sẻ các phương tiện giao thông (xe máy, ôtô) tự lái được lưu thông trên thị trường. Mạng kết nối những người có nhu cầu cho thuê xe và người muốn thuê xe tự lái. Khi bạn có một tài khoản tại Chung Xe, bạn có thể dễ dàng cho thuê hoặc thuê một phương tiện vận tải (xe máy, ôtô) tự lái qua các tiện ích mà chúng tôi cung cấp. Các tiện ích này được gọi chung là “Dịch vụ” Bạn cũng hiểu và đồng ý rằng Dịch Vụ này bao gồm một số thông tin liên lạc của Ban quản trị Chung Xe qua các phương tiện như email, SMS, Website.. và rằng các thông tin liên lạc này được coi là một phần không tách rời của Dịch vụ và Bạn sẽ không thể từ chối nhận các thông tin này trừ khi Bạn chấm dứt tài khoản của mình. ",
+            "l2": "CHUNG XE KHÔNG PHẢI LÀ ĐƠN VỊ CUNG CẤP DỊCH VỤ VẬN TẢI, CŨNG KHÔNG PHẢI LÀ ĐƠN VỊ MÔI GIỚI DỊCH VỤ VẬN TẢI. CHÚNG TÔI CHỈ CUNG CẤP MỘT PHƯƠNG THỨC LIÊN LẠC HỮU ÍCH CHO NGƯỜI CÓ NHU CẦU CHIA SẺ PHƯƠNG TIỆN ĐI LẠI. NHỮNG NGƯỜI CUNG CẤP HOẶC SỬ DỤNG DỊCH DỊCH VỤ VẬN TẢI (“CHO THUÊ HOẶC THUÊ”) TRÊN MẠNG CHUNGXE.VN TỰ CHỊU TRÁCH NHIỆM KHI SỬ DỤNG DỊCH VỤ CỦA NHAU. CHUNGXE.VN CÓ THỂ CUNG CẤP THÔNG TIN VÀ PHƯƠNG PHÁP ĐỂ CHO MỘT BÊN THỨ BA CUNG CẤP DỊCH VỤ VẬN TẢI NHƯNG KHÔNG ĐỨNG Ở VAI TRÒ CUNG CẤP DỊCH VỤ VẬN CHUYỂN TRONG BẤT CỨ HÌNH THỨC NÀO VÀ KHÔNG CÓ LIÊN ĐỚI TRÁCH NHIỆM VỚI DỊCH VỤ VẬN TẢI CỦA BÊN THỨ BA ĐÓ",
+            "l3": "Bạn sẽ nhận được một mật khẩu và tài khoản sau khi hoàn tất thủ tục đăng ký sử dụng Dịch Vụ. Bạn có trách nhiệm bảo mật mật khẩu và tài khoản, và hoàn toàn chịu trách nhiệm đối với tất cả các hoạt động diễn ra dưới việc sử dụng mật khẩu hoặc tài khoản của mình. Bạn đồng ý (a) thông báo ngay cho chúng tôi về bất cứ trường hợp nào sử dụng trái phép mật khẩu hoặc tài khoản của bạn hoặc bất cứ trường hợp nào khác vi phạm sự bảo mật, và (b) bảo đảm rằng Bạn luôn thoát khỏi tài khoản của mình sau mỗi lần sử dụng. Chúng tôi không thể và sẽ không chịu trách nhiệm đối với bất cứ tổn thất hoặc thiệt hại nào phát sinh do Bạn không tuân thủ quy định này",
+            "l4": "Với tư cách là người sử dụng dịch vụ, Bạn phải cam kết: (a) bạn có đủ tư cách pháp lý và tư cách hành vi khi sử dụng dịch vụ (b) cung cấp các thông tin mới nhất, đầy đủ, trung thực và chính xác về bản thân trong Hồ sơ cá nhân, (c) duy trì và cập nhật kịp thời Hồ sơ cá nhân để bảo đảm rằng dữ liệu này là đầy đủ, trung thực và chính xác. Nếu Bạn cung cấp bất cứ thông tin nào không phải là không trung thực hoặc không chính xác, hoặc nếu ChungXe có căn cứ hợp lý để nghi ngờ rằng thông tin đó không trung thực hoặc không chính xác, ChungXe có quyền đình chỉ hoặc chấm dứt tài khoản của Bạn; từ chối một phần hoặc toàn bộ việc sử dụng Dịch vụ tại thời điểm hiện tại hoặc trong tương lai",
+            "l5": "Bạn hiểu rằng bạn hoàn toàn chịu trách nhiệm trước pháp luật về các Nội dung bạn tạo ra bao gồm nhưng không giới hạn ở dữ liệu, văn bản, phần mềm, âm thanh, hình ảnh, video, email. Chúng tôi không có nghĩa vụ theo dõi các tài liệu được đăng và vì vậy, không bảo đảm về tính hợp pháp, chính xác, nguyên vẹn hoặc chất lượng của Nội Dung đó. Tại các khu vực được phép đăng tải Nội dung, bạn có thể chia sẻ thông tin được phép dưới các định dạng chúng tôi mặc định và bạn phải tự chịu trách nhiệm đối với các nội dung, thông tin, hình ảnh và bất kỳ sự chia sẻ nào khác của bạn với cá nhân người sử dụng hoặc nhóm người sử dụng. Tuy nhiên, trong mọi trường hợp, chúng tôi vẫn được bảo lưu quyền xử lý các thông tin đăng tải cho phù hợp với thuần phong mỹ tục, các quy tắc đạo đức và các quy tắc đảm bảo an ninh quốc gia, và chúng tôi có toàn quyền cho phép hoặc không cho phép bài viết của bạn xuất hiện hay tồn tại tại các khu vực được phép chia sẻ thông tin."
+
+        },
+
+        "incident": {
+            "l0": "Cơ chế giải quyết khiếu nại liên quan đến việc thông tin cá nhân của khách hàng :",
+            "l1": "Chung Xe sẽ là đơn vị trung gian đứng ra tiếp nhận khiếu nại của người của khách hàng. Khi phát hiện sự vi phạm, người khách thuê xe, chủ xe có thể gửi khiếu nại về cho Chung Xe. Chung Xe sẽ xem xét và hỗ trợ cùng với đứng ra làm việc trực tiếp với cơ quan nhà nước có thẩm quyền, hỗ trợ cung cấp các thông tin cần thiết phục vụ cho việc khiếu nại.",
+            "l2": "Trong trường hợp hệ thống thông tin bị tấn công làm phát sinh nguy cơ mất thông tin của người tiêu dùng, Chung Xe sẽ thông báo cho cơ quan chức năng trong vòng 24 (hai mươi bốn) giờ sau khi phát hiện sự cố.",
+            "l3": "Công ty và Chủ xe có trách nhiệm tiếp nhận các khiếu nại và hỗ trợ Khách hàng liên quan đến các giao dịch được kết nối thông qua Sàn giao dịch. Các khiếu nại liên quan đến việc cung cấp, sử dụng dịch vụ thuê xe trên Sàn giao dịch do Công ty chịu trách nhiệm độc lập giải quyết trên cơ sở quy định của pháp luật, Điều khoản và Điều kiện sử dụng dịch vụ, các thông báo, quy chế đã công bố với Thành viên (Khách hàng và Chủ xe). Khi phát sinh tranh chấp, Công ty đề cao giải pháp thương lượng, hòa giải giữa các bên nhằm duy trì sự tin cậy của Thành viên vào chất lượng dịch vụ của Sàn giao dịch. Khách hàng có thể thực hiện theo các bước sau:",
+            "l4": "Bước 1: Khách hàng khiếu nại về dịch vụ qua số điện thoại 1900xxxxx  hoặc gửi mail cho Bộ phận Chăm sóc Khách hàng tại địa chỉ support@chungxe.vn. Thời gian để Công ty tiếp nhận khiếu nại là 3 ngày kể từ ngày sử dụng dịch vụ hoặc từ ngày phát sinh sự việc.",
+            "l5": "Bước 2: Trong thời hạn (3) ngày làm việc kể từ khi tiếp nhận thông tin khiếu nại của Khách hàng, Bộ phận Chăm sóc Khách hàng xác nhận thông tin khiếu nại, tiến hành phân loại thông tin và thông báo cho Khách hàng:",
+            "l51": "2a. Ghi nhận các yêu cầu và các khiếu nại có liên quan đến Công ty và trong thời hạn khiếu nại.",
+            "l52": "2b. Từ chối các yêu cầu, các khiếu nại không có liên quan đến Công ty và hết thời hạn khiếu nại.",
+            "l6": "Bước 3: Giải quyết vấn đề: Bộ phận Chăm sóc Khách hàng sẽ tiến hành xác minh, kiểm chứng và phân tích tính chất và mức độ của nội dung khiếu nại, phạm vi khiếu nại và trách nhiệm xử lý để phối hợp với Chủ xe và Bên cung cấp dịch vụ thứ 3 đưa ra biện pháp cụ thể để hỗ trợ Khách hàng giải quyết tranh chấp đó.",
+            "l61": "3a. Chuyển các vấn đề có liên quan trực tiếp đến Công ty cho các Bộ phận có liên quan kiểm tra và đối chiếu.",
+            "l62": "3b. Chuyển các vấn đề có liên quan cho Chủ xe giải quyết. Trong thời hạn ba (3) ngày làm việc kể từ khi tiếp nhận thông báo về khiếu nại, Chủ xe có trách nhiệm phối hợp với Chung Xe để giải quyết, xử lý khiếu nại. Chủ xe sẽ thông báo cho Khách hàng biện pháp xử lý hoặc ủy quyền thông báo cho Công ty.",
+            "l7": "Bước 4: Đóng khiếu nại",
+            "l71": "4a. Khách hàng đồng ý với các phản hồi của Bộ phận Chăm sóc Khách hàng -> Kết thúc khiếu nại. Khách hàng không đồng ý -> Quay lại bước 3",
+            "l72": "4b. Theo dõi các giải quyết khiếu nại của Chủ xe -> Kết thúc khiếu nại khi Khách hàng và Chủ xe đã thỏa thuận xong.",
+            "l8": "Khi nhận được thông báo về biện pháp xử lý từ Chủ xe nhưng Khách hàng không đồng ý thì Công ty sẽ chủ trì việc thương lượng, hòa giải giữa Khách hàng và Chủ xe để đi đến kết quả giải quyết phù hợp với cả hai bên. Trong trường hợp Khách hàng và Chủ xe không đi đến thỏa thuận chung hoặc Khách hàng không đồng ý với những biện pháp giải quyết cuối cùng của Chủ xe và/hoặc nằm ngoài khả năng và thẩm quyền của Công ty thì Khách hàng hoặc Chủ xe có thể nhờ đến Cơ quan Nhà nước có thẩm quyền can thiệp và giải quyết theo Pháp luật nhằm đảm bảo lợi ích hợp pháp của các bên.",
+            "l9": "Công ty tôn trọng và nghiêm túc thực hiện các quy định của Pháp luật về Bảo vệ quyền lợi của người dùng. Công ty khuyến nghị Khách hàng và Chủ xe cung cấp chính xác, trung thực, chi tiết các thông tin cá nhân và nội dung đăng tin liên quan đến dịch vụ. Chúng tôi cũng đề nghị Chủ xe cần nghiêm túc tuân thủ các quy định của Pháp luật, cũng như có những hành vi phù hợp đối với Khách hàng. Mọi hành vi lừa đảo, gian lận trong kinh doanh, gây tổn hại đến người khác đều bị lên án và phải chịu hoàn toàn trách nhiệm trước Pháp luật. Các bên bao gồm Khách hàng và Chủ xe sẽ phải có trách nhiệm tích cực trong việc giải quyết khiếu nại. Chủ xe cần có trách nhiệm chủ động xử lý và cung cấp văn bản giấy tờ chứng thực thông tin liên quan đến sự việc đang có khiếu nại, tranh chấp với Khách hàng. Công ty chỉ đóng vai trò hỗ trợ, phối hợp việc thương lượng, hòa giải và giải quyết khiếu nại giữ Khách hàng và Chủ xe. Công ty cũng có trách nhiệm cung cấp những thông tin liên quan đến Khách hàng và Chủ xe nếu được Chủ xe hoặc Khách hàng hoặc Cơ quan Pháp luật có thẩm quyền yêu cầu.",
+            "l10": "Sau khi Khách hàng và Chủ xe đã giải quyết xong tranh chấp, cần có trách nhiệm báo lại cho Công ty để cập nhật tình hình. Trong trường hợp giao dịch phát sinh mâu thuẫn mà lỗi thuộc về Chủ xe: Công ty sẽ áp dụng các biện pháp xử lý vi phạm tương ứng bao gồm nhưng không giới hạn: cảnh cáo, khóa tài khoản hoặc chuyển cho Cơ quan Pháp luật có thẩm quyền tùy theo mức độ của sai phạm. Công ty sẽ chấm dứt và gỡ bỏ toàn bộ tin bài về sản phẩm, dịch vụ của Chủ xe đó trên Sàn giao dịch đồng thời yêu cầu Chủ xe bồi hoàn cho Khách hàng thỏa đáng trên cơ sở thỏa thuận với Khách hàng."
+        }
+
+    },
+    "guide": {
+        "owner": {
+            "l1": "Bước 1: Mỗi xe chỉ cần đăng tải một lần duy nhất là có thể cho thuê nhiều lần về sau. Truy xuất chungxe.vn/dang-tai-xe để đăng tải xe của bạn lên Chung Xe. Trước khi đăng tải xe, bạn phải cung cấp thông tin đầy đủ số điện thoại tại mục Thông tin tài khoản. Đăng tải một xe theo hướng dẫn từng bước trong chức năng Đăng tải xe.",
+            "l2": "Bước 2: Nhân viên của ChungXe sẽ duyệt các thông tin về xe. Thời gian duyệt xe trong 1 ngày làm việc.",
+            "l3": "Bước 3: Nếu xe được duyệt thành công, xe của bạn lập tức được liệt kê trong danh sách kết quả tìm kiếm của khách thuê. Bạn sẽ nhận được thông báo thông qua email / thông báo trên ứng dụng di động ngay khi Chung Xe duyệt xong xe.",
+            "l4": "Nếu xe không được duyệt thành công vì một lý do nào đấy, ChungXe cũng sẽ thông báo cho bạn thông qua email/thông báo trên ứng dụng di động để yêu cầu bạn điều chỉnh thông tin và đăng tải xe trở lại."
+        },
+        "rental": {
+            "l1": "Bước 1: Xe của bạn sẽ được khách thuê tìm thấy qua chức năng tìm xe và được xem xét kỹ chi tiết của xe trước khi khách tiến hành gửi yêu cầu thuê xe.",
+            "l2": "Bước 2: Sau khi khách thuê gửi yêu cầu thuê xe của bạn, bạn sẽ nhận được thông báo thông qua email/thông báo trên ứng dụng di động.",
+            "l3": "Bước 3: Bạn xem xét kỹ thông tin về khách thuê trước khi quyết định cho khách thuê hay không. Các thông tin sau là các thông tin các bạn nên xem kỹ:",
+            "l31": "- Hình ảnh thẻ CMND/CCCD của khách thuê có hợp lệ và đáng tin hay không",
+            "l32": "- Họ tên của khách thuê và họ tên trong CMND/CCCD có giống nhau hay không",
+            "l33": "- Khách thuê được những chủ xe trước đánh giá và bình luận như thế nào, có đáng tin hay không",
+            "l34": "- Chỉ nên cho thuê xe nếu khách thuê ngắn hạn. Không nên cho thuê dài ngày.",
+            "l35": "- Bạn đã có số điện thoại của khách thuê, bạn hãy điện thoại trực tiếp với khách thuê để hỏi han kỹ càng hơn. Nên hỏi thăm nơi mà khách định đi và mục đích thuê xe của khách.",
+            "l4": "Bước 4: Nếu bạn đồng ý cho khách thuê xe, hãy nhấn nút “Đồng ý cho thuê”. Nếu không hãy nhấn nút “Từ chối”.",
+            "l5": "Bước 5: Đến ngày cho thuê xe, bạn và khách thuê hẹn nhau địa điểm để giao xe (tuỳ thoả thuận 2 bên). Hãy kiểm tra lại CMND/CCCD, bằng lái xe và các giấy tờ khác (nếu bạn muốn) trước khi cho khách nhận xe. ChungXe khuyến khích bạn hãy tải hợp đồng cho thuê xe ô tô để sử dụng cho việc ký hợp đồng thuê xe. Bạn và khách thuê tự thỏa thuận việc thanh toán sao cho tiện lợi nhất cho hai bên. Thông thường khách thuê sẽ trả 30% tiền cọc trước khi nhận xe và 70% tổng tiền sau khi hoàn tất chuyến đi.Trước khi nhận xe hãy kiểm tra lại tình trạng xe và ghi chú lại vào hợp đồng.",
+            "l6": "Bước 6: Đưa các giấy tờ còn hiệu lực bao gồm giấy đăng ký xe (cà vẹt), bảo hiểm bắt buộc, phiếu đăng kiểm bằng bản sao có công chứng (không nên đưa bản gốc) cho khách thuê.",
+            "l7": "Bước 7: Khi khách trả xe, bạn cần kiểm tra lại tình trạng xe xem có hư hỏng, xây xát gì không trước khi nhận lại xe và các giấy tờ liên quan. Nếu cần xử lý các tranh chấp thì hãy thương lượng một cách có thiện chí.",
+            "l8": "Bước 8: Vào chức năng Lịch sử cho thuê xe, chọn chuyến đi và dùng chức năng Đánh giá khách để gửi đánh giá và bình luận của bạn về khách thuê vừa rồi. Xe bạn giờ đã sẵn sàng cho lần thuê tiếp theo! Nếu bạn còn bất kỳ thắc mắc nào, vui lòng truy cập Các câu hỏi thường gặp dành cho chủ xe để biết thêm thông tin hoặc gửi email trực tiếp cho Chung Xe qua địa chỉ: doitac@chungxe.vn."
+        }
+    },
+    "questions": {
+        "frequently": {
+            "l1": "Trở thành đối tác của Chung Xe",
+            "l2": "Chung Xe là hệ thống online booking xe tự lái nhanh chóng và đáng tin cậy. Chung Xe mang lại cơ hội tiếp cận hàng triệu khách hàng trên cả nước. Đây là một cơ hội lớn đối với các công ty, điểm cho thuê xe tự lái để hợp tác kinh doanh cùng phát triển."
+        },
+        "why-do": {
+            "l1": "- Có khả năng tiếp cận hàng triệu khách hàng qua kênh trực tuyến của Chung Xe và thường xuyên nhận được đặt hàng thuê xe, gia tăng doanh thu và tối ưu thời gian sử dụng của xe.",
+            "l2": "- Theo kịp xu hướng tiêu dùng mới của hành khách là tìm kiếm và đặt xe trực tuyến hoặc qua ứng dụng di động",
+            "l3": "- Được ChungXe hỗ trợ phát triển kênh đặt xe trực tuyến mà không mất chi phí đầu tư, chi phí bảo trì hệ thống và không cần nhân sự IT chuyên trách (đối với các công ty cho thuê xe)",
+            "l4": "- Cho phép đặt chỗ và trả tiền trước, đảm bảo doanh thu và chủ động trong kinh doanh.",
+            "l5": "- Có Hệ thống phản hồi của hành khách về chất lượng xe và dịch vụ cũng như chăm sóc khách hàng tự động cho phép cải thiện chất lượng dịch vụ .",
+            "l6": "- Đăng ký tham gia cách điền vào Form Đăng ký làm đối tác của Chung Xe",
+            "l7": "- Chung Xe kiểm tra năng lực cung cấp dịch vụ và chất lượng xe",
+            "l8": "- Ký hợp đồng hợp tác vận chuyển và chia sẻ doanh thu",
+            "l9": "- Các công ty/ cá nhân có xe cho thuê tự lái ",
+            "l10": "- Tại thời điểm hiện tại, Chung Xe hoàn toàn không thu bất kỳ một khoản phí nào của khách hàng.",
+            "l11": "- Chung Xe cung cấp hợp đồng mẫu và các hướng dẫn về nguyên tắc ứng xử giữa khách thuê và chủ xe để giao dịch diễn ra thuận lợi. Khách thuê chịu trách nhiệm với quyết định thuê xe của mình và cần xem kỹ thông tin về chủ xe trước khi giao dịch. Chung Xe sẽ hỗ trợ cung cấp thông tin cho các bên và hỗ trợ làm việc với công an khi cần thiết.",
+            "l12": "- Khi xe bạn thuê đang lưu thông trên đường và bị hỏng, bạn phải nhanh chóng điện thoại cho chủ xe để thông báo tình hình. Chủ xe là người nắm rõ nhất tình trạng của xe, nên sẽ cho bạn những lời khuyên thiết thực nhất. Ngoài ra, hai bên cũng cần làm rõ nguyên nhân của việc hư hỏng là do bên nào để về sau định rõ người sẽ trả tiền cho phần sửa chữa đó. Bạn cũng nên lấy các số điện thoại cứu hộ khẩn cấp để đề phòng trường hợp xấu xảy ra.",
+            "l13": "- Để đề phòng trường hợp chủ xe yêu cầu mình bắt đền các hỏng hóc không phải do mình gây ra, bạn nên chụp hình, quay phim tình trạng của xe ngay lúc bạn nhận xe một cách chi tiết. Nếu thấy có dấu hiệu hư hại hoặc sắp hư hại thì phải báo ngay cho chủ xe và ghi vào trong hợp đồng thuê xe giữa hai bên. Chung Xe đã cung cấp hợp đồng mẫu cho chủ xe và bạn nên ghi điều đó vào trong hợp đồng. Trong trường hợp chủ xe bắt đền các hư hại mà không phải lỗi do bạn gây ra thì bạn nên đem các bằng chứng khi nhận xe và hợp đồng ra cho chủ xe xem. Bạn hoàn toàn có quyền từ chối bồi thường các lỗi mà bạn không gây ra.",
+            "l14": "- Chung Xe cung cấp hợp đồng mẫu và các hướng dẫn về nguyên tắc ứng xử giữa khách thuê và chủ xe để giao dịch diễn ra thuận lợi. Chủ xe chịu trách nhiệm với quyết định cho thuê xe của mình và cần xem kỹ thông tin về khách thuê trước khi giao dịch. Chung Xe sẽ hỗ trợ cung cấp thông tin cho các bên và hỗ trợ làm việc với công an khi cần thiết.",
+            "l15": "Để đảm bảo an toàn khi thuê xe, chủ xe nên:",
+            "l16": "- Trường hợp khách thuê thuê dài ngày thì định kỳ nên điện thoại hỏi thăm khách thuê tình hình của xe,",
+            "l17": "- Đăng ký mua bảo hiểm tự nguyện tại các công ty bảo hiểm",
+            "l18": "- Gắn định vị để kiểm tra vị trí của xe và kiểm tra thường xuyên",
+            "l19": "- Nếu phát hiện xe di chuyển đến vị trí đáng ngờ (biên giới, đi xa hơn dự kiến…) thì ngay lập tức thông báo cho Chung Xe.",
+            "l20": "- Nếu phát hiện định vị gắn trên xe bị cắt thì ngay lập tức báo cho Chung Xe và trình báo công an địa phương.",
+            "l21": "- Trong trường hợp phương tiện bị hư hỏng trong quá trình sử dụng, xin vui lòng hướng dẫn khách thuê sửa chữa và thanh toán chi phí dựa theo thỏa thuận thuê xe đã ký kết giữa khách thuê và bên cho thuê."
+        }
+    }
+
+
+}

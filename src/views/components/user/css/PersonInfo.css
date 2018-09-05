@@ -1,0 +1,9 @@
+.group {
+    height: 688px;
+    border-radius: 8px;
+    background-color: #ffffff;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.2); 
+}
+.form-right {
+    margin-left: 24px;
+}

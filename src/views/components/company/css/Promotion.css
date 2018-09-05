@@ -1,0 +1,47 @@
+
+.body-child{
+    width: 92%;
+    margin: 0 4% 0 4% ;
+    margin-top: 45px;
+    display: flex;
+    flex-flow: row wrap;
+    align-content: space-between;
+    text-align: center;
+}
+
+.item-promotion {
+    width: 370px;
+    height: auto;
+    margin: 20px;
+    text-align: center;
+    margin-bottom: 30px;
+    border-radius: 8px;
+    background-color: #ffffff;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.16);
+  }
+  .item-promotion:nth-child(3n) {
+    page-break-after: always;
+  }
+  .btn-item-promotion{
+    text-align: center;
+    line-height: 48px;
+  }
+  .copy-code-promotion{
+      position: absolute;
+      z-index: 100;
+      width: 157px;
+      height: 40px;
+      border: solid 2px #ffffff;
+      color: #ffffff;
+      margin-top: -87px;
+      margin-left: -125px;
+      border-radius: 4px;
+      display: none;
+  }
+  .img-promotion{
+    height: 180px;
+    width: 100%;
+  }
+  .img-promotion:focus > .body-child{
+    background-color: blue
+  }

@@ -1,0 +1,44 @@
+[
+    {
+        "vhc_conf_id": 1,
+        "vhc_conf_code": "vhc_fuel",
+        "vhc_conf_vn": "assets/images/icon/ic-station.png",
+        "vhc_conf_en": "assets/images/icon/ic-station.png",
+        "vhc_conf_des": ""
+    },
+    {
+        "vhc_conf_id": 2,
+        "vhc_conf_code": "vhc_tms",
+        "vhc_conf_vn": "assets/images/icon/ic-engine.png",
+        "vhc_conf_en": "assets/images/icon/ic-engine.png",
+        "vhc_conf_des": ""
+    },
+    {
+        "vhc_conf_id": 3,
+        "vhc_conf_code": "vhc_seat",
+        "vhc_conf_vn": "assets/images/icon/ic-seat.png",
+        "vhc_conf_en": "assets/images/icon/ic-seat.png",
+        "vhc_conf_des": ""
+    },
+    {
+        "vhc_conf_id": 4,
+        "vhc_conf_code": "vhc_engine",
+        "vhc_conf_vn": "assets/images/icon/ic-engine.png",
+        "vhc_conf_en": "assets/images/icon/ic-engine.png",
+        "vhc_conf_des": ""
+    },
+    {
+        "vhc_conf_id": 5,
+        "vhc_conf_code": "vhc_fuel_consumption",
+        "vhc_conf_vn": "assets/images/icon/ic-station.png",
+        "vhc_conf_en": "assets/images/icon/ic-station.png",
+        "vhc_conf_des": ""
+    },
+    {
+        "vhc_conf_id": 6,
+        "vhc_conf_code": "vhc_design",
+        "vhc_conf_vn": "assets/images/icon/ic-station.png",
+        "vhc_conf_en": "assets/images/icon/ic-station.png",
+        "vhc_conf_des": ""
+    }
+]
